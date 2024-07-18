@@ -1,0 +1,1001 @@
+Abalone_id,Gender,Length,Diameter,Height,Whole_weight,Shucked_weight,Viscera_weight,Shell_weight,Rings,Collector,Collector_First,Collector_last,Collector_organization,Water,Water_region,Feb_temp
+4,M,0.44,0.365,0.125,0.516,0.2155,0.114,0.155,10,8,Kali,Metcalfe,Mote Marine Laboratory,6,"Gulf of Mexico	",14.1
+7,F,0.53,0.415,0.15,0.7775,0.237,0.1415,0.33,20,10,Hazel,Villa,University of Minnesota,2,Florida Gulf Coast,18
+9,M,0.475,0.37,0.125,0.5095,0.2165,0.1125,0.165,9,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+20,M,0.45,0.32,0.1,0.381,0.1705,0.075,0.115,9,4,Nate,Craig,NOAA Fisheries,8,West Coast,12.3
+26,F,0.56,0.44,0.14,0.9285,0.3825,0.188,0.3,11,5,Haniya,Talley,Prince William Sound Science Center,4,Mid-Atlantic,6.1
+41,F,0.45,0.335,0.105,0.425,0.1865,0.091,0.115,9,3,Inaya,Bernard,Stanford University,5,Southeast,12.8
+43,I,0.24,0.175,0.045,0.07,0.0315,0.0235,0.02,5,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+46,I,0.39,0.295,0.095,0.203,0.0875,0.045,0.075,7,4,Nate,Craig,NOAA Fisheries,3,Northeast,3.6
+48,F,0.46,0.375,0.12,0.4605,0.1775,0.11,0.15,7,2,Tiegan,Davie,"University of California, Davis",4,Mid-Atlantic,6.1
+56,F,0.5,0.4,0.14,0.6615,0.2565,0.1755,0.22,8,1,Jan,Odom,University of Houston,8,West Coast,12.3
+58,M,0.47,0.385,0.135,0.5895,0.2765,0.12,0.17,8,14,Santiago,Vaughan,"Ohio State University	",5,Southeast,12.8
+60,F,0.505,0.4,0.125,0.583,0.246,0.13,0.175,7,8,Kali,Metcalfe,Mote Marine Laboratory,7,Great Lakes,2.5
+61,M,0.45,0.345,0.105,0.4115,0.18,0.1125,0.135,7,14,Santiago,Vaughan,"Ohio State University	",1,Florida Atlantic Coast,22.1
+63,F,0.53,0.41,0.13,0.6965,0.302,0.1935,0.2,10,15,Conan,Dalton,University of Houston,3,Northeast,3.6
+64,M,0.425,0.325,0.095,0.3785,0.1705,0.08,0.1,7,4,Nate,Craig,NOAA Fisheries,6,"Gulf of Mexico	",14.1
+66,M,0.475,0.355,0.12,0.48,0.234,0.1015,0.135,8,13,Betty,Berg,University of Houston,4,Mid-Atlantic,6.1
+69,F,0.475,0.39,0.12,0.5305,0.2135,0.1155,0.17,10,8,Kali,Metcalfe,Mote Marine Laboratory,2,Florida Gulf Coast,18
+70,I,0.31,0.235,0.07,0.151,0.063,0.0405,0.045,6,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+72,F,0.4,0.32,0.11,0.353,0.1405,0.0985,0.1,8,9,Danica,Tyler,"University of Florida	",1,Florida Atlantic Coast,22.1
+74,M,0.57,0.48,0.175,1.185,0.474,0.261,0.38,11,12,Rebecca,Bennett,University of Houston,9,North Pacific,1.9
+77,M,0.595,0.475,0.14,0.944,0.3625,0.189,0.315,9,5,Haniya,Talley,Prince William Sound Science Center,7,Great Lakes,2.5
+78,F,0.6,0.47,0.15,0.922,0.363,0.194,0.305,10,13,Betty,Berg,University of Houston,10,Pacific,24.1
+80,F,0.615,0.475,0.17,1.1025,0.4695,0.2355,0.345,14,15,Conan,Dalton,University of Houston,8,West Coast,12.3
+81,F,0.575,0.445,0.14,0.941,0.3845,0.252,0.285,9,5,Haniya,Talley,Prince William Sound Science Center,3,Northeast,3.6
+83,F,0.52,0.425,0.165,0.9885,0.396,0.225,0.32,16,6,Martin,Gaines,San Diego State University,2,Florida Gulf Coast,18
+87,M,0.625,0.465,0.14,1.195,0.4825,0.205,0.4,13,7,Iona,Connolly,Florida Atlantic University,3,Northeast,3.6
+88,M,0.56,0.44,0.16,0.8645,0.3305,0.2075,0.26,10,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+89,F,0.46,0.355,0.13,0.517,0.2205,0.114,0.165,9,12,Rebecca,Bennett,University of Houston,5,Southeast,12.8
+90,F,0.575,0.45,0.16,0.9775,0.3135,0.231,0.33,12,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+104,M,0.53,0.415,0.14,0.724,0.3105,0.1675,0.205,10,11,Naima,Reyes,University of Houston,9,North Pacific,1.9
+105,M,0.605,0.47,0.16,1.1735,0.4975,0.2405,0.345,12,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+110,F,0.435,0.395,0.105,0.3635,0.136,0.098,0.13,9,2,Tiegan,Davie,"University of California, Davis",9,North Pacific,1.9
+111,M,0.495,0.395,0.125,0.5415,0.2375,0.1345,0.155,9,9,Danica,Tyler,"University of Florida	",3,Northeast,3.6
+116,F,0.53,0.415,0.115,0.5915,0.233,0.1585,0.18,11,3,Inaya,Bernard,Stanford University,2,Florida Gulf Coast,18
+121,F,0.47,0.365,0.105,0.4205,0.163,0.1035,0.14,9,3,Inaya,Bernard,Stanford University,10,Pacific,24.1
+124,M,0.37,0.265,0.075,0.214,0.09,0.051,0.07,6,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+127,I,0.375,0.275,0.09,0.238,0.1075,0.0545,0.07,6,11,Naima,Reyes,University of Houston,9,North Pacific,1.9
+135,I,0.265,0.2,0.065,0.0975,0.04,0.0205,0.028,7,12,Rebecca,Bennett,University of Houston,9,North Pacific,1.9
+136,F,0.425,0.33,0.115,0.406,0.1635,0.081,0.1355,8,11,Naima,Reyes,University of Houston,5,Southeast,12.8
+140,M,0.375,0.285,0.095,0.253,0.096,0.0575,0.0925,9,14,Santiago,Vaughan,"Ohio State University	",6,"Gulf of Mexico	",14.1
+144,M,0.56,0.455,0.155,0.797,0.34,0.19,0.2425,11,8,Kali,Metcalfe,Mote Marine Laboratory,8,West Coast,12.3
+145,M,0.475,0.375,0.13,0.5175,0.2075,0.1165,0.17,10,6,Martin,Gaines,San Diego State University,7,Great Lakes,2.5
+146,F,0.49,0.38,0.125,0.549,0.245,0.1075,0.174,10,7,Iona,Connolly,Florida Atlantic University,1,Florida Atlantic Coast,22.1
+155,F,0.565,0.45,0.135,0.9885,0.387,0.1495,0.31,12,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+160,F,0.575,0.46,0.165,1.124,0.2985,0.1785,0.44,13,15,Conan,Dalton,University of Houston,3,Northeast,3.6
+172,F,0.53,0.395,0.145,0.775,0.308,0.169,0.255,7,8,Kali,Metcalfe,Mote Marine Laboratory,3,Northeast,3.6
+174,F,0.52,0.405,0.115,0.776,0.32,0.1845,0.22,8,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+178,I,0.315,0.245,0.085,0.1435,0.053,0.0475,0.05,8,5,Haniya,Talley,Prince William Sound Science Center,10,Pacific,24.1
+180,M,0.58,0.475,0.15,0.97,0.385,0.2165,0.35,11,12,Rebecca,Bennett,University of Houston,4,Mid-Atlantic,6.1
+184,F,0.62,0.475,0.175,1.0165,0.4355,0.214,0.325,10,3,Inaya,Bernard,Stanford University,4,Mid-Atlantic,6.1
+189,F,0.63,0.48,0.16,1.199,0.5265,0.335,0.315,11,7,Iona,Connolly,Florida Atlantic University,4,Mid-Atlantic,6.1
+191,M,0.615,0.48,0.18,1.1595,0.4845,0.2165,0.325,13,6,Martin,Gaines,San Diego State University,10,Pacific,24.1
+193,M,0.58,0.45,0.15,0.927,0.276,0.1815,0.36,14,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+195,F,0.51,0.4,0.14,0.8145,0.459,0.1965,0.195,10,1,Jan,Odom,University of Houston,9,North Pacific,1.9
+201,F,0.45,0.345,0.12,0.4165,0.1655,0.095,0.135,9,13,Betty,Berg,University of Houston,2,Florida Gulf Coast,18
+203,F,0.5,0.4,0.145,0.63,0.234,0.1465,0.23,12,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+205,M,0.42,0.335,0.115,0.369,0.171,0.071,0.12,8,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+208,I,0.435,0.34,0.11,0.3795,0.1495,0.085,0.12,8,7,Iona,Connolly,Florida Atlantic University,1,Florida Atlantic Coast,22.1
+212,M,0.335,0.25,0.09,0.181,0.0755,0.0415,0.06,7,10,Hazel,Villa,University of Minnesota,10,Pacific,24.1
+221,F,0.445,0.325,0.125,0.455,0.1785,0.1125,0.14,9,12,Rebecca,Bennett,University of Houston,6,"Gulf of Mexico	",14.1
+230,F,0.53,0.415,0.16,0.783,0.2935,0.158,0.245,15,12,Rebecca,Bennett,University of Houston,4,Mid-Atlantic,6.1
+243,I,0.23,0.175,0.065,0.0645,0.026,0.0105,0.02,5,6,Martin,Gaines,San Diego State University,7,Great Lakes,2.5
+245,I,0.33,0.255,0.085,0.1655,0.063,0.039,0.06,8,12,Rebecca,Bennett,University of Houston,1,Florida Atlantic Coast,22.1
+251,I,0.33,0.25,0.105,0.1715,0.0655,0.035,0.06,7,1,Jan,Odom,University of Houston,9,North Pacific,1.9
+252,M,0.59,0.47,0.18,1.1235,0.4205,0.2805,0.36,13,11,Naima,Reyes,University of Houston,1,Florida Atlantic Coast,22.1
+254,F,0.575,0.46,0.185,1.094,0.4485,0.217,0.345,15,4,Nate,Craig,NOAA Fisheries,4,Mid-Atlantic,6.1
+257,M,0.56,0.45,0.185,1.07,0.3805,0.175,0.41,19,13,Betty,Berg,University of Houston,9,North Pacific,1.9
+258,M,0.545,0.46,0.16,0.8975,0.341,0.1655,0.345,10,6,Martin,Gaines,San Diego State University,6,"Gulf of Mexico	",14.1
+260,F,0.59,0.475,0.16,1.1015,0.4775,0.2555,0.295,13,8,Kali,Metcalfe,Mote Marine Laboratory,8,West Coast,12.3
+262,F,0.57,0.44,0.125,0.865,0.3675,0.1725,0.27,12,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+266,F,0.46,0.38,0.13,0.639,0.3,0.1525,0.16,11,4,Nate,Craig,NOAA Fisheries,6,"Gulf of Mexico	",14.1
+267,M,0.52,0.45,0.15,0.895,0.3615,0.186,0.235,14,15,Conan,Dalton,University of Houston,8,West Coast,12.3
+273,M,0.62,0.485,0.205,1.219,0.3875,0.2505,0.385,14,3,Inaya,Bernard,Stanford University,10,Pacific,24.1
+282,I,0.36,0.285,0.105,0.2415,0.0915,0.057,0.075,7,5,Haniya,Talley,Prince William Sound Science Center,9,North Pacific,1.9
+283,F,0.455,0.355,0.12,0.4495,0.177,0.104,0.15,9,8,Kali,Metcalfe,Mote Marine Laboratory,4,Mid-Atlantic,6.1
+284,M,0.485,0.395,0.14,0.6295,0.2285,0.127,0.225,14,5,Haniya,Talley,Prince William Sound Science Center,9,North Pacific,1.9
+286,F,0.535,0.415,0.17,0.879,0.295,0.1965,0.285,10,11,Naima,Reyes,University of Houston,3,Northeast,3.6
+290,F,0.535,0.435,0.16,0.8105,0.3155,0.1795,0.24,10,11,Naima,Reyes,University of Houston,3,Northeast,3.6
+301,F,0.405,0.305,0.095,0.3485,0.1455,0.0895,0.1,9,1,Jan,Odom,University of Houston,5,Southeast,12.8
+303,M,0.37,0.28,0.1,0.252,0.1065,0.0595,0.074,8,8,Kali,Metcalfe,Mote Marine Laboratory,6,"Gulf of Mexico	",14.1
+307,I,0.165,0.12,0.03,0.0215,0.007,0.005,0.005,3,11,Naima,Reyes,University of Houston,10,Pacific,24.1
+311,F,0.63,0.485,0.19,1.2435,0.4635,0.3055,0.39,21,3,Inaya,Bernard,Stanford University,2,Florida Gulf Coast,18
+312,M,0.56,0.44,0.14,0.971,0.443,0.2045,0.265,14,3,Inaya,Bernard,Stanford University,8,West Coast,12.3
+314,F,0.62,0.47,0.2,1.2255,0.381,0.27,0.435,23,9,Danica,Tyler,"University of Florida	",6,"Gulf of Mexico	",14.1
+317,F,0.635,0.535,0.19,1.242,0.576,0.2475,0.39,14,10,Hazel,Villa,University of Minnesota,9,North Pacific,1.9
+321,I,0.265,0.21,0.06,0.0965,0.0425,0.022,0.03,5,5,Haniya,Talley,Prince William Sound Science Center,10,Pacific,24.1
+323,M,0.385,0.31,0.1,0.2845,0.1065,0.075,0.1,11,5,Haniya,Talley,Prince William Sound Science Center,6,"Gulf of Mexico	",14.1
+324,I,0.265,0.205,0.07,0.1055,0.039,0.041,0.035,5,3,Inaya,Bernard,Stanford University,2,Florida Gulf Coast,18
+327,I,0.32,0.255,0.1,0.1755,0.073,0.0415,0.065,7,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+328,M,0.51,0.4,0.13,0.6435,0.27,0.1665,0.205,12,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+341,M,0.575,0.455,0.145,1.165,0.581,0.2275,0.3,14,13,Betty,Berg,University of Houston,4,Mid-Atlantic,6.1
+346,M,0.49,0.39,0.14,0.707,0.2795,0.2185,0.18,13,2,Tiegan,Davie,"University of California, Davis",6,"Gulf of Mexico	",14.1
+347,F,0.525,0.42,0.16,0.756,0.2745,0.173,0.275,9,1,Jan,Odom,University of Houston,5,Southeast,12.8
+352,F,0.585,0.45,0.17,0.8685,0.3325,0.1635,0.27,22,15,Conan,Dalton,University of Houston,9,North Pacific,1.9
+354,M,0.58,0.455,0.17,0.93,0.408,0.259,0.22,9,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+361,M,0.605,0.49,0.18,1.227,0.48,0.287,0.35,18,4,Nate,Craig,NOAA Fisheries,8,West Coast,12.3
+364,F,0.6,0.48,0.15,1.029,0.4085,0.2705,0.295,16,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+368,F,0.58,0.455,0.12,1.0735,0.479,0.2735,0.265,10,2,Tiegan,Davie,"University of California, Davis",2,Florida Gulf Coast,18
+378,F,0.585,0.45,0.16,1.077,0.4995,0.2875,0.25,10,8,Kali,Metcalfe,Mote Marine Laboratory,8,West Coast,12.3
+380,F,0.61,0.495,0.185,1.1085,0.3705,0.3135,0.33,12,5,Haniya,Talley,Prince William Sound Science Center,2,Florida Gulf Coast,18
+383,M,0.485,0.4,0.135,0.663,0.313,0.137,0.2,10,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+385,M,0.545,0.425,0.135,0.8445,0.373,0.21,0.235,10,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+388,M,0.46,0.38,0.135,0.482,0.207,0.1225,0.145,10,10,Hazel,Villa,University of Minnesota,2,Florida Gulf Coast,18
+390,I,0.465,0.375,0.12,0.471,0.222,0.119,0.14,9,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+393,F,0.47,0.375,0.125,0.5615,0.252,0.137,0.18,10,13,Betty,Berg,University of Houston,5,Southeast,12.8
+415,F,0.605,0.495,0.17,1.2385,0.528,0.2465,0.39,14,2,Tiegan,Davie,"University of California, Davis",8,West Coast,12.3
+429,F,0.56,0.455,0.125,0.943,0.344,0.129,0.375,21,12,Rebecca,Bennett,University of Houston,9,North Pacific,1.9
+432,M,0.6,0.47,0.155,1.036,0.4375,0.196,0.325,20,11,Naima,Reyes,University of Houston,4,Mid-Atlantic,6.1
+434,M,0.545,0.42,0.14,0.7505,0.2475,0.13,0.255,22,7,Iona,Connolly,Florida Atlantic University,9,North Pacific,1.9
+440,M,0.5,0.415,0.165,0.6885,0.249,0.138,0.25,13,15,Conan,Dalton,University of Houston,10,Pacific,24.1
+456,M,0.575,0.47,0.14,0.8375,0.3485,0.1735,0.24,11,1,Jan,Odom,University of Houston,3,Northeast,3.6
+457,F,0.64,0.54,0.175,1.221,0.51,0.259,0.39,15,8,Kali,Metcalfe,Mote Marine Laboratory,1,Florida Atlantic Coast,22.1
+460,F,0.525,0.41,0.135,0.7085,0.293,0.1525,0.235,11,1,Jan,Odom,University of Houston,4,Mid-Atlantic,6.1
+462,F,0.585,0.465,0.17,0.9915,0.3865,0.224,0.265,12,9,Danica,Tyler,"University of Florida	",10,Pacific,24.1
+464,I,0.22,0.165,0.055,0.0545,0.0215,0.012,0.02,5,5,Haniya,Talley,Prince William Sound Science Center,6,"Gulf of Mexico	",14.1
+471,F,0.53,0.44,0.135,0.7835,0.313,0.1715,0.2185,9,9,Danica,Tyler,"University of Florida	",9,North Pacific,1.9
+477,F,0.465,0.35,0.115,0.421,0.1565,0.091,0.1345,9,1,Jan,Odom,University of Houston,9,North Pacific,1.9
+485,M,0.63,0.48,0.145,1.0115,0.4235,0.237,0.305,12,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+490,F,0.57,0.455,0.165,1.0595,0.44,0.2195,0.285,14,8,Kali,Metcalfe,Mote Marine Laboratory,6,"Gulf of Mexico	",14.1
+492,M,0.58,0.46,0.13,0.921,0.357,0.181,0.29,13,9,Danica,Tyler,"University of Florida	",7,Great Lakes,2.5
+500,M,0.555,0.45,0.175,0.874,0.3275,0.202,0.305,10,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+506,M,0.6,0.47,0.175,1.105,0.4865,0.247,0.315,15,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+512,F,0.455,0.35,0.14,0.5185,0.221,0.1265,0.135,10,7,Iona,Connolly,Florida Atlantic University,9,North Pacific,1.9
+515,F,0.275,0.195,0.07,0.08,0.031,0.0215,0.025,5,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+526,M,0.175,0.125,0.04,0.024,0.0095,0.006,0.005,4,8,Kali,Metcalfe,Mote Marine Laboratory,1,Florida Atlantic Coast,22.1
+527,M,0.155,0.11,0.04,0.0155,0.0065,0.003,0.005,3,1,Jan,Odom,University of Houston,10,Pacific,24.1
+528,F,0.57,0.445,0.155,0.733,0.282,0.159,0.235,14,13,Betty,Berg,University of Houston,4,Mid-Atlantic,6.1
+533,I,0.47,0.37,0.12,0.4705,0.1845,0.1055,0.155,12,12,Rebecca,Bennett,University of Houston,3,Northeast,3.6
+535,I,0.47,0.37,0.14,0.4985,0.2095,0.1225,0.145,10,7,Iona,Connolly,Florida Atlantic University,5,Southeast,12.8
+536,I,0.465,0.38,0.13,0.454,0.1895,0.08,0.155,11,4,Nate,Craig,NOAA Fisheries,1,Florida Atlantic Coast,22.1
+551,I,0.65,0.515,0.16,1.1625,0.495,0.203,0.33,17,1,Jan,Odom,University of Houston,6,"Gulf of Mexico	",14.1
+556,I,0.5,0.385,0.15,0.6265,0.2605,0.1665,0.16,10,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+558,F,0.66,0.5,0.165,1.1905,0.4585,0.298,0.37,12,6,Martin,Gaines,San Diego State University,4,Mid-Atlantic,6.1
+561,F,0.44,0.34,0.105,0.364,0.148,0.0805,0.1175,8,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+563,F,0.475,0.35,0.115,0.452,0.1715,0.092,0.155,11,6,Martin,Gaines,San Diego State University,3,Northeast,3.6
+564,F,0.545,0.415,0.15,0.7335,0.2795,0.163,0.2185,11,11,Naima,Reyes,University of Houston,5,Southeast,12.8
+566,M,0.35,0.255,0.065,0.179,0.0705,0.0385,0.06,10,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+567,I,0.485,0.355,0.13,0.581,0.245,0.132,0.168,12,1,Jan,Odom,University of Houston,5,Southeast,12.8
+568,I,0.435,0.33,0.125,0.406,0.1685,0.1055,0.096,12,13,Betty,Berg,University of Houston,8,West Coast,12.3
+571,I,0.45,0.35,0.14,0.474,0.21,0.109,0.1275,16,12,Rebecca,Bennett,University of Houston,9,North Pacific,1.9
+576,F,0.61,0.475,0.14,1.133,0.5275,0.2355,0.35,11,10,Hazel,Villa,University of Minnesota,2,Florida Gulf Coast,18
+581,F,0.625,0.49,0.175,1.233,0.5565,0.247,0.365,11,4,Nate,Craig,NOAA Fisheries,7,Great Lakes,2.5
+588,F,0.55,0.41,0.145,0.8285,0.3095,0.1905,0.25,13,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+598,I,0.605,0.47,0.14,0.939,0.3385,0.201,0.32,13,10,Hazel,Villa,University of Minnesota,3,Northeast,3.6
+601,I,0.535,0.42,0.145,0.926,0.398,0.1965,0.25,17,2,Tiegan,Davie,"University of California, Davis",6,"Gulf of Mexico	",14.1
+602,F,0.385,0.315,0.11,0.286,0.1225,0.0635,0.0835,10,15,Conan,Dalton,University of Houston,8,West Coast,12.3
+603,F,0.39,0.3,0.1,0.265,0.1075,0.06,0.0865,13,3,Inaya,Bernard,Stanford University,5,Southeast,12.8
+607,M,0.345,0.27,0.09,0.195,0.078,0.0455,0.059,9,7,Iona,Connolly,Florida Atlantic University,9,North Pacific,1.9
+610,M,0.35,0.265,0.09,0.1775,0.0575,0.042,0.068,12,4,Nate,Craig,NOAA Fisheries,2,Florida Gulf Coast,18
+614,I,0.495,0.37,0.125,0.4775,0.185,0.0705,0.169,18,6,Martin,Gaines,San Diego State University,10,Pacific,24.1
+615,I,0.45,0.35,0.145,0.525,0.2085,0.1,0.1655,15,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+620,M,0.235,0.17,0.055,0.0515,0.018,0.0105,0.0195,7,11,Naima,Reyes,University of Houston,10,Pacific,24.1
+622,I,0.485,0.38,0.14,0.673,0.2175,0.13,0.195,18,11,Naima,Reyes,University of Houston,1,Florida Atlantic Coast,22.1
+624,F,0.5,0.385,0.105,0.498,0.1795,0.1095,0.17,17,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+628,F,0.38,0.305,0.095,0.2815,0.1255,0.0525,0.09,8,15,Conan,Dalton,University of Houston,10,Pacific,24.1
+629,I,0.53,0.415,0.145,0.944,0.3845,0.185,0.265,21,4,Nate,Craig,NOAA Fisheries,5,Southeast,12.8
+630,M,0.34,0.265,0.085,0.1835,0.077,0.046,0.065,10,4,Nate,Craig,NOAA Fisheries,7,Great Lakes,2.5
+636,M,0.355,0.265,0.09,0.168,0.05,0.041,0.063,8,1,Jan,Odom,University of Houston,5,Southeast,12.8
+639,I,0.44,0.345,0.12,0.487,0.1965,0.108,0.16,14,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+652,I,0.335,0.245,0.09,0.1665,0.0595,0.04,0.06,6,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+653,I,0.47,0.35,0.13,0.466,0.1845,0.099,0.145,11,5,Haniya,Talley,Prince William Sound Science Center,4,Mid-Atlantic,6.1
+663,F,0.415,0.34,0.13,0.3675,0.146,0.0885,0.12,10,1,Jan,Odom,University of Houston,5,Southeast,12.8
+667,M,0.455,0.35,0.12,0.4835,0.1815,0.144,0.16,11,3,Inaya,Bernard,Stanford University,5,Southeast,12.8
+669,M,0.55,0.425,0.155,0.9175,0.2775,0.243,0.335,13,8,Kali,Metcalfe,Mote Marine Laboratory,1,Florida Atlantic Coast,22.1
+670,F,0.45,0.35,0.145,0.5425,0.1765,0.123,0.175,13,8,Kali,Metcalfe,Mote Marine Laboratory,7,Great Lakes,2.5
+671,M,0.475,0.385,0.145,0.6175,0.235,0.108,0.215,14,13,Betty,Berg,University of Houston,4,Mid-Atlantic,6.1
+672,F,0.5,0.38,0.155,0.655,0.2405,0.143,0.205,17,10,Hazel,Villa,University of Minnesota,1,Florida Atlantic Coast,22.1
+673,F,0.53,0.41,0.165,0.8115,0.24,0.169,0.24,19,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+674,M,0.49,0.39,0.15,0.573,0.225,0.124,0.17,21,10,Hazel,Villa,University of Minnesota,7,Great Lakes,2.5
+676,F,0.52,0.395,0.18,0.64,0.158,0.11,0.245,22,7,Iona,Connolly,Florida Atlantic University,7,Great Lakes,2.5
+677,M,0.54,0.415,0.145,0.74,0.2635,0.168,0.245,12,9,Danica,Tyler,"University of Florida	",5,Southeast,12.8
+687,F,0.535,0.4,0.15,0.8045,0.3345,0.2125,0.21,13,13,Betty,Berg,University of Houston,7,Great Lakes,2.5
+694,M,0.38,0.29,0.12,0.283,0.1175,0.0655,0.085,9,13,Betty,Berg,University of Houston,2,Florida Gulf Coast,18
+697,I,0.155,0.105,0.05,0.0175,0.005,0.0035,0.005,4,3,Inaya,Bernard,Stanford University,6,"Gulf of Mexico	",14.1
+701,M,0.385,0.285,0.105,0.2905,0.1215,0.0685,0.0875,12,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+704,M,0.395,0.295,0.115,0.316,0.1205,0.0595,0.1105,12,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+714,M,0.355,0.265,0.085,0.201,0.069,0.053,0.0695,8,12,Rebecca,Bennett,University of Houston,10,Pacific,24.1
+717,I,0.29,0.205,0.07,0.0975,0.036,0.019,0.035,8,6,Martin,Gaines,San Diego State University,6,"Gulf of Mexico	",14.1
+720,I,0.15,0.1,0.025,0.015,0.0045,0.004,0.005,2,10,Hazel,Villa,University of Minnesota,5,Southeast,12.8
+722,M,0.555,0.455,0.16,1.0575,0.3925,0.228,0.293,13,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+723,M,0.555,0.44,0.15,1.092,0.416,0.212,0.4405,15,10,Hazel,Villa,University of Minnesota,2,Florida Gulf Coast,18
+726,F,0.49,0.36,0.11,0.5005,0.161,0.107,0.195,17,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+727,M,0.4,0.305,0.085,0.297,0.108,0.0705,0.1,10,4,Nate,Craig,NOAA Fisheries,2,Florida Gulf Coast,18
+729,M,0.505,0.4,0.125,0.77,0.2735,0.159,0.255,13,11,Naima,Reyes,University of Houston,5,Southeast,12.8
+731,M,0.525,0.4,0.13,0.8295,0.2405,0.1825,0.275,11,1,Jan,Odom,University of Houston,3,Northeast,3.6
+734,M,0.505,0.38,0.13,0.656,0.227,0.1785,0.22,13,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+737,M,0.52,0.385,0.115,0.669,0.2385,0.172,0.205,12,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+741,M,0.53,0.44,0.205,0.835,0.32,0.2175,0.245,14,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+742,F,0.36,0.265,0.09,0.2065,0.078,0.057,0.06,8,7,Iona,Connolly,Florida Atlantic University,5,Southeast,12.8
+745,M,0.53,0.415,0.13,0.8425,0.275,0.1945,0.265,20,15,Conan,Dalton,University of Houston,5,Southeast,12.8
+746,F,0.53,0.42,0.13,1.001,0.34,0.226,0.265,17,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+749,M,0.535,0.42,0.13,0.8055,0.301,0.181,0.28,14,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+766,M,0.545,0.45,0.15,0.978,0.3365,0.1905,0.3,11,13,Betty,Berg,University of Houston,7,Great Lakes,2.5
+767,F,0.59,0.445,0.13,1.1325,0.3825,0.234,0.32,13,8,Kali,Metcalfe,Mote Marine Laboratory,2,Florida Gulf Coast,18
+768,M,0.345,0.27,0.095,0.197,0.0665,0.05,0.07,9,14,Santiago,Vaughan,"Ohio State University	",9,North Pacific,1.9
+770,F,0.53,0.425,0.17,0.949,0.3485,0.2395,0.278,17,10,Hazel,Villa,University of Minnesota,3,Northeast,3.6
+772,I,0.485,0.375,0.14,0.521,0.2,0.123,0.17,8,6,Martin,Gaines,San Diego State University,3,Northeast,3.6
+775,M,0.49,0.38,0.14,0.7605,0.245,0.167,0.185,10,14,Santiago,Vaughan,"Ohio State University	",3,Northeast,3.6
+776,M,0.53,0.41,0.165,0.732,0.189,0.17,0.31,11,2,Tiegan,Davie,"University of California, Davis",6,"Gulf of Mexico	",14.1
+777,M,0.505,0.385,0.145,0.6775,0.236,0.179,0.2,15,11,Naima,Reyes,University of Houston,7,Great Lakes,2.5
+783,M,0.515,0.435,0.145,0.8815,0.292,0.206,0.255,10,14,Santiago,Vaughan,"Ohio State University	",5,Southeast,12.8
+785,I,0.215,0.155,0.06,0.0525,0.021,0.0165,0.015,5,4,Nate,Craig,NOAA Fisheries,8,West Coast,12.3
+786,M,0.55,0.415,0.175,1.042,0.3295,0.2325,0.2905,15,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+789,F,0.505,0.39,0.16,0.644,0.2475,0.2025,0.1635,9,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+790,F,0.6,0.465,0.165,0.8875,0.309,0.246,0.262,12,9,Danica,Tyler,"University of Florida	",3,Northeast,3.6
+795,M,0.58,0.465,0.16,1.0345,0.315,0.26,0.3635,12,15,Conan,Dalton,University of Houston,1,Florida Atlantic Coast,22.1
+800,F,0.425,0.345,0.11,0.3665,0.125,0.081,0.117,11,8,Kali,Metcalfe,Mote Marine Laboratory,2,Florida Gulf Coast,18
+801,M,0.46,0.34,0.135,0.495,0.1655,0.117,0.185,10,12,Rebecca,Bennett,University of Houston,10,Pacific,24.1
+807,I,0.28,0.205,0.07,0.1015,0.041,0.03,0.03,6,11,Naima,Reyes,University of Houston,10,Pacific,24.1
+809,F,0.44,0.34,0.13,0.4195,0.153,0.1155,0.13,10,9,Danica,Tyler,"University of Florida	",1,Florida Atlantic Coast,22.1
+810,F,0.52,0.41,0.115,0.807,0.2855,0.179,0.235,12,1,Jan,Odom,University of Houston,8,West Coast,12.3
+811,M,0.505,0.405,0.14,0.875,0.2665,0.174,0.285,12,4,Nate,Craig,NOAA Fisheries,3,Northeast,3.6
+814,I,0.255,0.185,0.06,0.088,0.0365,0.021,0.023,5,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+818,I,0.35,0.27,0.09,0.2055,0.075,0.0575,0.062,6,7,Iona,Connolly,Florida Atlantic University,1,Florida Atlantic Coast,22.1
+822,I,0.37,0.275,0.14,0.2215,0.097,0.0455,0.0615,6,3,Inaya,Bernard,Stanford University,8,West Coast,12.3
+829,I,0.41,0.325,0.1,0.394,0.208,0.0655,0.106,6,1,Jan,Odom,University of Houston,5,Southeast,12.8
+830,I,0.415,0.32,0.11,0.3735,0.175,0.0755,0.109,7,13,Betty,Berg,University of Houston,2,Florida Gulf Coast,18
+833,I,0.44,0.365,0.115,0.501,0.2435,0.084,0.1465,9,12,Rebecca,Bennett,University of Houston,3,Northeast,3.6
+834,I,0.445,0.335,0.1,0.4895,0.2745,0.086,0.1105,7,6,Martin,Gaines,San Diego State University,1,Florida Atlantic Coast,22.1
+840,I,0.485,0.355,0.105,0.498,0.2175,0.096,0.1525,9,7,Iona,Connolly,Florida Atlantic University,9,North Pacific,1.9
+853,M,0.565,0.45,0.155,1.0595,0.4735,0.24,0.265,10,5,Haniya,Talley,Prince William Sound Science Center,6,"Gulf of Mexico	",14.1
+860,F,0.595,0.48,0.16,1.2095,0.5225,0.296,0.32,8,5,Haniya,Talley,Prince William Sound Science Center,7,Great Lakes,2.5
+864,F,0.6,0.475,0.155,1.21,0.653,0.1695,0.3205,10,9,Danica,Tyler,"University of Florida	",5,Southeast,12.8
+867,M,0.605,0.455,0.16,1.1035,0.421,0.3015,0.325,9,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+896,I,0.255,0.19,0.05,0.083,0.0295,0.0215,0.027,6,15,Conan,Dalton,University of Houston,4,Mid-Atlantic,6.1
+898,I,0.265,0.195,0.06,0.092,0.0345,0.025,0.0245,6,6,Martin,Gaines,San Diego State University,10,Pacific,24.1
+900,I,0.295,0.23,0.08,0.1625,0.065,0.05,0.0385,5,3,Inaya,Bernard,Stanford University,2,Florida Gulf Coast,18
+911,I,0.34,0.25,0.075,0.1785,0.0665,0.0455,0.045,5,8,Kali,Metcalfe,Mote Marine Laboratory,3,Northeast,3.6
+912,I,0.34,0.25,0.07,0.2225,0.104,0.0425,0.055,7,10,Hazel,Villa,University of Minnesota,5,Southeast,12.8
+918,I,0.41,0.31,0.09,0.339,0.155,0.0695,0.09,7,9,Danica,Tyler,"University of Florida	",8,West Coast,12.3
+920,I,0.41,0.31,0.09,0.3335,0.1635,0.061,0.091,6,5,Haniya,Talley,Prince William Sound Science Center,2,Florida Gulf Coast,18
+922,I,0.42,0.32,0.115,0.376,0.169,0.092,0.1,5,1,Jan,Odom,University of Houston,10,Pacific,24.1
+926,I,0.43,0.325,0.1,0.3645,0.1575,0.0825,0.105,7,6,Martin,Gaines,San Diego State University,7,Great Lakes,2.5
+928,I,0.435,0.325,0.12,0.3995,0.1815,0.061,0.1125,8,2,Tiegan,Davie,"University of California, Davis",6,"Gulf of Mexico	",14.1
+930,I,0.44,0.345,0.13,0.4495,0.209,0.0835,0.134,6,8,Kali,Metcalfe,Mote Marine Laboratory,2,Florida Gulf Coast,18
+934,I,0.45,0.36,0.13,0.478,0.191,0.127,0.137,7,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+938,I,0.455,0.355,0.125,0.5325,0.225,0.126,0.1465,7,14,Santiago,Vaughan,"Ohio State University	",6,"Gulf of Mexico	",14.1
+940,I,0.46,0.36,0.1,0.4635,0.2325,0.093,0.115,7,13,Betty,Berg,University of Houston,10,Pacific,24.1
+942,I,0.465,0.365,0.115,0.467,0.2315,0.0925,0.113,7,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+947,F,0.47,0.365,0.12,0.582,0.29,0.092,0.146,8,14,Santiago,Vaughan,"Ohio State University	",6,"Gulf of Mexico	",14.1
+950,M,0.48,0.375,0.115,0.6765,0.3205,0.1065,0.17,6,12,Rebecca,Bennett,University of Houston,8,West Coast,12.3
+951,M,0.48,0.385,0.145,0.64,0.2925,0.1405,0.1575,6,10,Hazel,Villa,University of Minnesota,9,North Pacific,1.9
+954,F,0.485,0.37,0.115,0.4785,0.1995,0.0955,0.129,7,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+955,M,0.49,0.385,0.125,0.649,0.32,0.124,0.1695,8,8,Kali,Metcalfe,Mote Marine Laboratory,7,Great Lakes,2.5
+961,M,0.5,0.4,0.125,0.6725,0.336,0.12,0.1825,7,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+973,F,0.525,0.415,0.14,0.724,0.3475,0.173,0.175,8,8,Kali,Metcalfe,Mote Marine Laboratory,1,Florida Atlantic Coast,22.1
+985,M,0.57,0.45,0.155,1.195,0.5625,0.2565,0.295,10,1,Jan,Odom,University of Houston,9,North Pacific,1.9
+989,M,0.57,0.46,0.17,0.9035,0.4075,0.1935,0.214,7,4,Nate,Craig,NOAA Fisheries,5,Southeast,12.8
+992,F,0.58,0.46,0.15,1.1155,0.5575,0.2255,0.29,7,13,Betty,Berg,University of Houston,1,Florida Atlantic Coast,22.1
+997,M,0.59,0.465,0.155,1.136,0.5245,0.2615,0.275,11,9,Danica,Tyler,"University of Florida	",1,Florida Atlantic Coast,22.1
+1000,F,0.595,0.47,0.155,1.121,0.4515,0.178,0.155,11,12,Rebecca,Bennett,University of Houston,7,Great Lakes,2.5
+1004,M,0.595,0.455,0.15,1.044,0.518,0.2205,0.27,9,14,Santiago,Vaughan,"Ohio State University	",6,"Gulf of Mexico	",14.1
+1007,M,0.605,0.47,0.165,1.2315,0.6025,0.262,0.2925,11,9,Danica,Tyler,"University of Florida	",3,Northeast,3.6
+1014,F,0.625,0.475,0.175,1.1435,0.4755,0.2475,0.349,10,13,Betty,Berg,University of Houston,3,Northeast,3.6
+1019,M,0.63,0.48,0.15,1.1785,0.5185,0.248,0.3235,8,4,Nate,Craig,NOAA Fisheries,2,Florida Gulf Coast,18
+1056,I,0.195,0.135,0.04,0.0325,0.0135,0.005,0.0095,4,15,Conan,Dalton,University of Houston,6,"Gulf of Mexico	",14.1
+1059,I,0.245,0.18,0.065,0.071,0.03,0.013,0.0215,4,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+1062,I,0.275,0.195,0.065,0.106,0.054,0.02,0.028,6,10,Hazel,Villa,University of Minnesota,4,Mid-Atlantic,6.1
+1065,I,0.3,0.22,0.08,0.1255,0.055,0.0265,0.039,6,12,Rebecca,Bennett,University of Houston,3,Northeast,3.6
+1066,I,0.315,0.235,0.055,0.151,0.065,0.027,0.039,6,6,Martin,Gaines,San Diego State University,2,Florida Gulf Coast,18
+1069,I,0.37,0.28,0.1,0.221,0.1165,0.0265,0.0635,6,7,Iona,Connolly,Florida Atlantic University,5,Southeast,12.8
+1073,I,0.4,0.32,0.095,0.348,0.194,0.053,0.087,6,4,Nate,Craig,NOAA Fisheries,10,Pacific,24.1
+1075,I,0.41,0.3,0.1,0.282,0.1255,0.057,0.0875,7,12,Rebecca,Bennett,University of Houston,1,Florida Atlantic Coast,22.1
+1076,I,0.41,0.325,0.1,0.3245,0.132,0.072,0.106,6,1,Jan,Odom,University of Houston,8,West Coast,12.3
+1083,I,0.435,0.345,0.115,0.418,0.222,0.0735,0.106,7,12,Rebecca,Bennett,University of Houston,7,Great Lakes,2.5
+1085,I,0.445,0.345,0.105,0.409,0.1675,0.1015,0.117,7,10,Hazel,Villa,University of Minnesota,8,West Coast,12.3
+1086,I,0.445,0.34,0.145,0.434,0.1945,0.0905,0.13,7,8,Kali,Metcalfe,Mote Marine Laboratory,4,Mid-Atlantic,6.1
+1090,I,0.45,0.33,0.105,0.3715,0.1865,0.0785,0.0975,7,9,Danica,Tyler,"University of Florida	",7,Great Lakes,2.5
+1091,I,0.45,0.33,0.1,0.411,0.1945,0.1,0.098,6,13,Betty,Berg,University of Houston,5,Southeast,12.8
+1095,I,0.47,0.38,0.125,0.4845,0.211,0.1075,0.142,6,6,Martin,Gaines,San Diego State University,9,North Pacific,1.9
+1100,I,0.5,0.375,0.14,0.5495,0.248,0.112,0.1585,7,1,Jan,Odom,University of Houston,10,Pacific,24.1
+1104,F,0.505,0.39,0.125,0.5445,0.246,0.15,0.1405,7,8,Kali,Metcalfe,Mote Marine Laboratory,3,Northeast,3.6
+1114,I,0.525,0.4,0.13,0.6455,0.325,0.1245,0.17,8,7,Iona,Connolly,Florida Atlantic University,4,Mid-Atlantic,6.1
+1115,I,0.525,0.4,0.14,0.601,0.2625,0.1285,0.1835,9,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+1117,I,0.525,0.395,0.12,0.608,0.297,0.1395,0.1405,8,4,Nate,Craig,NOAA Fisheries,1,Florida Atlantic Coast,22.1
+1119,I,0.535,0.39,0.125,0.599,0.2595,0.149,0.169,9,2,Tiegan,Davie,"University of California, Davis",8,West Coast,12.3
+1122,M,0.545,0.41,0.12,0.793,0.434,0.1405,0.19,9,13,Betty,Berg,University of Houston,9,North Pacific,1.9
+1125,F,0.55,0.43,0.15,0.84,0.395,0.195,0.223,8,10,Hazel,Villa,University of Minnesota,7,Great Lakes,2.5
+1126,M,0.55,0.425,0.15,0.8315,0.411,0.1765,0.2165,10,10,Hazel,Villa,University of Minnesota,7,Great Lakes,2.5
+1133,F,0.565,0.45,0.175,1.0095,0.447,0.2375,0.2645,9,6,Martin,Gaines,San Diego State University,4,Mid-Atlantic,6.1
+1139,M,0.575,0.435,0.14,0.8455,0.401,0.191,0.222,9,10,Hazel,Villa,University of Minnesota,4,Mid-Atlantic,6.1
+1141,M,0.575,0.455,0.135,0.907,0.4245,0.197,0.26,9,1,Jan,Odom,University of Houston,3,Northeast,3.6
+1148,M,0.58,0.45,0.14,0.9615,0.486,0.1815,0.253,9,12,Rebecca,Bennett,University of Houston,6,"Gulf of Mexico	",14.1
+1149,M,0.58,0.45,0.145,1.0025,0.547,0.1975,0.2295,8,11,Naima,Reyes,University of Houston,4,Mid-Atlantic,6.1
+1151,M,0.585,0.46,0.145,0.9335,0.478,0.1825,0.235,9,13,Betty,Berg,University of Houston,1,Florida Atlantic Coast,22.1
+1152,M,0.585,0.465,0.16,0.9555,0.4595,0.236,0.265,7,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+1154,F,0.6,0.475,0.16,1.0265,0.485,0.2495,0.2565,9,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+1160,M,0.605,0.48,0.17,1.1835,0.582,0.2365,0.317,10,9,Danica,Tyler,"University of Florida	",10,Pacific,24.1
+1161,F,0.605,0.475,0.165,1.056,0.433,0.2195,0.357,9,6,Martin,Gaines,San Diego State University,10,Pacific,24.1
+1165,M,0.615,0.46,0.17,1.0565,0.4815,0.272,0.27,10,14,Santiago,Vaughan,"Ohio State University	",9,North Pacific,1.9
+1166,F,0.615,0.465,0.15,0.923,0.4615,0.1825,0.2415,9,6,Martin,Gaines,San Diego State University,10,Pacific,24.1
+1167,F,0.615,0.475,0.155,1.027,0.447,0.25,0.285,9,5,Haniya,Talley,Prince William Sound Science Center,4,Mid-Atlantic,6.1
+1170,F,0.62,0.48,0.16,1.1125,0.5635,0.2445,0.281,8,3,Inaya,Bernard,Stanford University,9,North Pacific,1.9
+1172,M,0.625,0.48,0.185,1.2065,0.587,0.29,0.286,8,12,Rebecca,Bennett,University of Houston,7,Great Lakes,2.5
+1175,F,0.635,0.495,0.015,1.1565,0.5115,0.308,0.2885,9,12,Rebecca,Bennett,University of Houston,10,Pacific,24.1
+1178,F,0.645,0.48,0.17,1.1345,0.528,0.254,0.305,10,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+1180,M,0.65,0.5,0.155,1.202,0.565,0.3135,0.294,11,4,Nate,Craig,NOAA Fisheries,4,Mid-Atlantic,6.1
+1202,M,0.72,0.565,0.145,1.187,0.691,0.1945,0.2685,8,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+1216,I,0.305,0.215,0.065,0.1075,0.044,0.0205,0.038,5,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+1220,I,0.325,0.225,0.075,0.139,0.0565,0.032,0.09,6,15,Conan,Dalton,University of Houston,10,Pacific,24.1
+1224,I,0.34,0.25,0.09,0.179,0.0775,0.033,0.055,6,14,Santiago,Vaughan,"Ohio State University	",8,West Coast,12.3
+1230,I,0.365,0.27,0.085,0.1875,0.081,0.042,0.058,6,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+1231,I,0.365,0.27,0.085,0.196,0.0825,0.0375,0.06,7,7,Iona,Connolly,Florida Atlantic University,4,Mid-Atlantic,6.1
+1233,I,0.37,0.29,0.09,0.2445,0.089,0.0655,0.075,7,6,Martin,Gaines,San Diego State University,7,Great Lakes,2.5
+1235,I,0.375,0.29,0.095,0.213,0.096,0.041,0.061,5,1,Jan,Odom,University of Houston,3,Northeast,3.6
+1238,I,0.375,0.275,0.095,0.2465,0.11,0.0415,0.0775,6,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+1240,I,0.375,0.27,0.085,0.218,0.0945,0.039,0.07,7,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+1242,I,0.38,0.27,0.08,0.2105,0.0865,0.042,0.07,8,2,Tiegan,Davie,"University of California, Davis",9,North Pacific,1.9
+1248,I,0.395,0.305,0.105,0.284,0.1135,0.0595,0.0945,8,8,Kali,Metcalfe,Mote Marine Laboratory,8,West Coast,12.3
+1249,I,0.395,0.295,0.095,0.2725,0.115,0.0625,0.085,8,12,Rebecca,Bennett,University of Houston,1,Florida Atlantic Coast,22.1
+1253,I,0.41,0.335,0.11,0.33,0.157,0.0705,0.17,7,3,Inaya,Bernard,Stanford University,3,Northeast,3.6
+1255,I,0.425,0.325,0.11,0.3335,0.173,0.045,0.1,7,14,Santiago,Vaughan,"Ohio State University	",8,West Coast,12.3
+1257,I,0.425,0.31,0.09,0.301,0.1385,0.065,0.08,7,10,Hazel,Villa,University of Minnesota,8,West Coast,12.3
+1260,I,0.435,0.315,0.11,0.3685,0.1615,0.0715,0.12,7,2,Tiegan,Davie,"University of California, Davis",7,Great Lakes,2.5
+1261,I,0.44,0.34,0.12,0.438,0.2115,0.083,0.12,9,1,Jan,Odom,University of Houston,6,"Gulf of Mexico	",14.1
+1266,I,0.46,0.36,0.105,0.466,0.2225,0.099,0.11,7,10,Hazel,Villa,University of Minnesota,7,Great Lakes,2.5
+1271,I,0.47,0.355,0.18,0.48,0.2055,0.105,0.1505,8,7,Iona,Connolly,Florida Atlantic University,1,Florida Atlantic Coast,22.1
+1274,I,0.475,0.38,0.12,0.441,0.1785,0.0885,0.1505,8,3,Inaya,Bernard,Stanford University,8,West Coast,12.3
+1275,I,0.475,0.36,0.11,0.492,0.211,0.11,0.15,8,6,Martin,Gaines,San Diego State University,8,West Coast,12.3
+1278,I,0.48,0.365,0.1,0.461,0.2205,0.0835,0.135,8,11,Naima,Reyes,University of Houston,9,North Pacific,1.9
+1282,I,0.5,0.38,0.135,0.594,0.2945,0.104,0.1565,9,8,Kali,Metcalfe,Mote Marine Laboratory,6,"Gulf of Mexico	",14.1
+1283,M,0.5,0.42,0.135,0.6765,0.302,0.1415,0.2065,9,4,Nate,Craig,NOAA Fisheries,7,Great Lakes,2.5
+1286,I,0.5,0.375,0.125,0.5695,0.259,0.124,0.157,7,7,Iona,Connolly,Florida Atlantic University,9,North Pacific,1.9
+1287,I,0.5,0.395,0.14,0.6215,0.2925,0.1205,0.195,9,8,Kali,Metcalfe,Mote Marine Laboratory,3,Northeast,3.6
+1289,I,0.505,0.38,0.12,0.594,0.2595,0.1435,0.18,7,2,Tiegan,Davie,"University of California, Davis",7,Great Lakes,2.5
+1297,M,0.525,0.42,0.155,0.842,0.428,0.1415,0.2045,9,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+1298,I,0.53,0.415,0.13,0.694,0.3905,0.111,0.167,9,8,Kali,Metcalfe,Mote Marine Laboratory,4,Mid-Atlantic,6.1
+1301,I,0.53,0.425,0.13,0.7675,0.419,0.1205,0.21,9,7,Iona,Connolly,Florida Atlantic University,4,Mid-Atlantic,6.1
+1302,I,0.535,0.4,0.135,0.6025,0.2895,0.121,0.154,9,2,Tiegan,Davie,"University of California, Davis",8,West Coast,12.3
+1303,I,0.535,0.415,0.15,0.5765,0.3595,0.135,0.225,8,8,Kali,Metcalfe,Mote Marine Laboratory,8,West Coast,12.3
+1305,M,0.535,0.435,0.15,0.717,0.3475,0.1445,0.194,9,12,Rebecca,Bennett,University of Houston,9,North Pacific,1.9
+1311,I,0.545,0.405,0.135,0.5945,0.27,0.1185,0.185,8,3,Inaya,Bernard,Stanford University,4,Mid-Atlantic,6.1
+1313,F,0.55,0.405,0.125,0.651,0.2965,0.137,0.2,9,1,Jan,Odom,University of Houston,5,Southeast,12.8
+1318,I,0.555,0.43,0.155,0.7395,0.3135,0.1435,0.28,10,12,Rebecca,Bennett,University of Houston,1,Florida Atlantic Coast,22.1
+1323,F,0.56,0.445,0.155,1.224,0.5565,0.3225,0.2695,10,10,Hazel,Villa,University of Minnesota,2,Florida Gulf Coast,18
+1325,I,0.565,0.44,0.175,0.8735,0.414,0.21,0.21,11,11,Naima,Reyes,University of Houston,3,Northeast,3.6
+1327,M,0.565,0.445,0.15,0.796,0.3635,0.184,0.219,8,5,Haniya,Talley,Prince William Sound Science Center,7,Great Lakes,2.5
+1329,I,0.57,0.45,0.145,0.751,0.2825,0.2195,0.2215,10,4,Nate,Craig,NOAA Fisheries,10,Pacific,24.1
+1330,I,0.57,0.45,0.135,0.794,0.3815,0.1415,0.245,8,15,Conan,Dalton,University of Houston,3,Northeast,3.6
+1332,M,0.57,0.435,0.17,0.873,0.382,0.183,0.2705,10,3,Inaya,Bernard,Stanford University,6,"Gulf of Mexico	",14.1
+1339,M,0.58,0.455,0.135,0.7955,0.405,0.167,0.204,10,12,Rebecca,Bennett,University of Houston,4,Mid-Atlantic,6.1
+1340,F,0.58,0.445,0.15,0.858,0.4,0.156,0.253,8,13,Betty,Berg,University of Houston,7,Great Lakes,2.5
+1344,M,0.585,0.46,0.165,1.1135,0.5825,0.2345,0.274,10,7,Iona,Connolly,Florida Atlantic University,10,Pacific,24.1
+1354,M,0.6,0.48,0.155,1.014,0.451,0.1885,0.325,11,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+1355,I,0.6,0.475,0.15,1.12,0.565,0.2465,0.27,10,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+1357,F,0.6,0.455,0.145,0.8895,0.419,0.1715,0.269,10,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+1358,M,0.6,0.46,0.155,0.9595,0.4455,0.189,0.295,11,6,Martin,Gaines,San Diego State University,2,Florida Gulf Coast,18
+1362,F,0.605,0.475,0.175,1.076,0.463,0.2195,0.335,9,4,Nate,Craig,NOAA Fisheries,5,Southeast,12.8
+1365,M,0.61,0.48,0.165,1.244,0.6345,0.257,0.305,12,15,Conan,Dalton,University of Houston,9,North Pacific,1.9
+1389,M,0.63,0.495,0.16,1.093,0.497,0.221,0.315,12,5,Haniya,Talley,Prince William Sound Science Center,10,Pacific,24.1
+1392,F,0.635,0.495,0.175,1.211,0.707,0.2725,0.323,9,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+1393,M,0.635,0.475,0.17,1.1935,0.5205,0.2695,0.3665,10,13,Betty,Berg,University of Houston,10,Pacific,24.1
+1397,M,0.645,0.51,0.16,1.1835,0.556,0.2385,0.345,11,13,Betty,Berg,University of Houston,7,Great Lakes,2.5
+1400,F,0.65,0.505,0.165,1.16,0.4785,0.274,0.349,11,7,Iona,Connolly,Florida Atlantic University,5,Southeast,12.8
+1430,I,0.14,0.105,0.035,0.014,0.0055,0.0025,0.004,3,6,Martin,Gaines,San Diego State University,4,Mid-Atlantic,6.1
+1431,I,0.23,0.165,0.06,0.0515,0.019,0.0145,0.036,4,7,Iona,Connolly,Florida Atlantic University,9,North Pacific,1.9
+1436,I,0.385,0.3,0.09,0.247,0.1225,0.044,0.0675,5,15,Conan,Dalton,University of Houston,1,Florida Atlantic Coast,22.1
+1438,I,0.4,0.29,0.11,0.329,0.188,0.0455,0.0825,6,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+1439,I,0.4,0.3,0.09,0.2815,0.1185,0.061,0.08,7,4,Nate,Craig,NOAA Fisheries,7,Great Lakes,2.5
+1440,I,0.405,0.31,0.095,0.3425,0.1785,0.064,0.0855,8,1,Jan,Odom,University of Houston,4,Mid-Atlantic,6.1
+1441,I,0.405,0.29,0.09,0.2825,0.112,0.075,0.0815,7,1,Jan,Odom,University of Houston,4,Mid-Atlantic,6.1
+1444,M,0.415,0.315,0.115,0.3895,0.2015,0.065,0.103,9,5,Haniya,Talley,Prince William Sound Science Center,9,North Pacific,1.9
+1449,I,0.44,0.365,0.11,0.4465,0.213,0.089,0.1135,9,10,Hazel,Villa,University of Minnesota,10,Pacific,24.1
+1450,M,0.45,0.335,0.125,0.4475,0.2165,0.126,0.11,6,9,Danica,Tyler,"University of Florida	",8,West Coast,12.3
+1454,I,0.47,0.35,0.125,0.4315,0.19,0.1165,0.1175,6,5,Haniya,Talley,Prince William Sound Science Center,9,North Pacific,1.9
+1455,I,0.47,0.355,0.12,0.3685,0.126,0.0835,0.1365,6,9,Danica,Tyler,"University of Florida	",8,West Coast,12.3
+1457,I,0.475,0.365,0.115,0.459,0.2175,0.093,0.1165,7,10,Hazel,Villa,University of Minnesota,3,Northeast,3.6
+1459,I,0.48,0.36,0.125,0.542,0.2795,0.1025,0.147,7,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+1462,M,0.485,0.37,0.13,0.526,0.2485,0.105,0.1555,6,14,Santiago,Vaughan,"Ohio State University	",3,Northeast,3.6
+1467,M,0.515,0.425,0.145,0.9365,0.497,0.181,0.2185,8,15,Conan,Dalton,University of Houston,9,North Pacific,1.9
+1472,M,0.53,0.4,0.125,0.7575,0.398,0.151,0.175,8,4,Nate,Craig,NOAA Fisheries,10,Pacific,24.1
+1473,F,0.545,0.41,0.14,0.7405,0.3565,0.1775,0.203,9,15,Conan,Dalton,University of Houston,5,Southeast,12.8
+1476,F,0.56,0.43,0.15,0.8745,0.453,0.161,0.22,8,10,Hazel,Villa,University of Minnesota,9,North Pacific,1.9
+1477,F,0.56,0.435,0.15,0.8715,0.4755,0.1835,0.1835,9,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+1482,F,0.58,0.435,0.14,0.953,0.475,0.2165,0.2095,9,12,Rebecca,Bennett,University of Houston,5,Southeast,12.8
+1483,M,0.585,0.455,0.15,0.906,0.4095,0.23,0.2335,8,15,Conan,Dalton,University of Houston,1,Florida Atlantic Coast,22.1
+1486,F,0.59,0.46,0.145,0.9905,0.453,0.2205,0.275,8,6,Martin,Gaines,San Diego State University,6,"Gulf of Mexico	",14.1
+1493,F,0.61,0.485,0.17,1.1005,0.5125,0.229,0.305,11,6,Martin,Gaines,San Diego State University,3,Northeast,3.6
+1514,M,0.65,0.485,0.14,1.175,0.475,0.2435,0.215,8,2,Tiegan,Davie,"University of California, Davis",7,Great Lakes,2.5
+1532,I,0.21,0.17,0.045,0.0475,0.019,0.011,0.013,5,11,Naima,Reyes,University of Houston,7,Great Lakes,2.5
+1534,I,0.295,0.215,0.07,0.121,0.047,0.0155,0.0405,6,11,Naima,Reyes,University of Houston,3,Northeast,3.6
+1540,I,0.355,0.26,0.09,0.1985,0.0715,0.0495,0.058,7,9,Danica,Tyler,"University of Florida	",10,Pacific,24.1
+1549,I,0.385,0.29,0.09,0.2365,0.1,0.0505,0.076,8,8,Kali,Metcalfe,Mote Marine Laboratory,4,Mid-Atlantic,6.1
+1551,I,0.385,0.3,0.09,0.308,0.1525,0.056,0.0835,8,5,Haniya,Talley,Prince William Sound Science Center,4,Mid-Atlantic,6.1
+1555,I,0.41,0.3,0.09,0.304,0.129,0.071,0.0955,8,4,Nate,Craig,NOAA Fisheries,1,Florida Atlantic Coast,22.1
+1559,I,0.425,0.315,0.08,0.303,0.131,0.0585,0.095,7,4,Nate,Craig,NOAA Fisheries,2,Florida Gulf Coast,18
+1560,I,0.435,0.335,0.1,0.3295,0.129,0.07,0.11,7,5,Haniya,Talley,Prince William Sound Science Center,7,Great Lakes,2.5
+1562,I,0.45,0.34,0.095,0.3245,0.1385,0.064,0.105,8,7,Iona,Connolly,Florida Atlantic University,7,Great Lakes,2.5
+1569,I,0.47,0.355,0.125,0.499,0.21,0.0985,0.155,8,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+1570,I,0.475,0.36,0.145,0.6325,0.2825,0.137,0.19,8,5,Haniya,Talley,Prince William Sound Science Center,7,Great Lakes,2.5
+1575,M,0.48,0.355,0.16,0.464,0.221,0.106,0.239,8,4,Nate,Craig,NOAA Fisheries,2,Florida Gulf Coast,18
+1576,I,0.485,0.375,0.13,0.6025,0.2935,0.1285,0.16,7,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+1579,I,0.495,0.37,0.125,0.4715,0.2075,0.091,0.15,8,9,Danica,Tyler,"University of Florida	",9,North Pacific,1.9
+1580,I,0.495,0.4,0.105,0.602,0.2505,0.1265,0.19,8,9,Danica,Tyler,"University of Florida	",2,Florida Gulf Coast,18
+1585,F,0.515,0.375,0.11,0.6065,0.3005,0.131,0.15,6,10,Hazel,Villa,University of Minnesota,5,Southeast,12.8
+1593,I,0.525,0.39,0.12,0.664,0.3115,0.147,0.178,9,14,Santiago,Vaughan,"Ohio State University	",1,Florida Atlantic Coast,22.1
+1594,I,0.525,0.38,0.135,0.615,0.261,0.159,0.175,8,9,Danica,Tyler,"University of Florida	",8,West Coast,12.3
+1599,I,0.53,0.4,0.145,0.555,0.1935,0.1305,0.195,9,14,Santiago,Vaughan,"Ohio State University	",3,Northeast,3.6
+1600,I,0.53,0.42,0.13,0.8365,0.3745,0.167,0.249,11,8,Kali,Metcalfe,Mote Marine Laboratory,2,Florida Gulf Coast,18
+1601,I,0.535,0.4,0.13,0.657,0.2835,0.162,0.175,7,13,Betty,Berg,University of Houston,7,Great Lakes,2.5
+1604,I,0.54,0.43,0.14,0.8195,0.3935,0.1725,0.2295,9,1,Jan,Odom,University of Houston,3,Northeast,3.6
+1606,I,0.54,0.42,0.14,0.6275,0.2505,0.1175,0.235,9,5,Haniya,Talley,Prince William Sound Science Center,7,Great Lakes,2.5
+1607,I,0.54,0.425,0.13,0.7205,0.2955,0.169,0.225,10,3,Inaya,Bernard,Stanford University,7,Great Lakes,2.5
+1609,I,0.545,0.4,0.13,0.686,0.3285,0.1455,0.18,9,10,Hazel,Villa,University of Minnesota,5,Southeast,12.8
+1614,I,0.55,0.42,0.135,0.816,0.3995,0.1485,0.23,12,5,Haniya,Talley,Prince William Sound Science Center,7,Great Lakes,2.5
+1622,M,0.56,0.425,0.135,0.849,0.3265,0.221,0.2645,10,14,Santiago,Vaughan,"Ohio State University	",3,Northeast,3.6
+1625,M,0.565,0.44,0.125,0.802,0.3595,0.1825,0.215,9,12,Rebecca,Bennett,University of Houston,10,Pacific,24.1
+1629,I,0.57,0.435,0.17,0.848,0.4,0.166,0.25,9,7,Iona,Connolly,Florida Atlantic University,5,Southeast,12.8
+1636,I,0.575,0.45,0.125,0.78,0.3275,0.188,0.235,9,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+1648,F,0.585,0.445,0.14,0.913,0.4305,0.2205,0.253,10,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+1649,M,0.59,0.49,0.165,1.207,0.559,0.235,0.309,10,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+1652,F,0.595,0.435,0.15,0.9,0.4175,0.17,0.265,8,14,Santiago,Vaughan,"Ohio State University	",8,West Coast,12.3
+1654,M,0.595,0.45,0.145,0.959,0.463,0.2065,0.2535,10,3,Inaya,Bernard,Stanford University,5,Southeast,12.8
+1655,I,0.595,0.46,0.15,0.8335,0.377,0.1925,0.235,8,2,Tiegan,Davie,"University of California, Davis",6,"Gulf of Mexico	",14.1
+1656,F,0.6,0.46,0.155,0.9735,0.427,0.2045,0.3,8,1,Jan,Odom,University of Houston,8,West Coast,12.3
+1658,M,0.6,0.48,0.165,0.9165,0.4135,0.1965,0.2725,9,14,Santiago,Vaughan,"Ohio State University	",2,Florida Gulf Coast,18
+1661,M,0.6,0.47,0.165,1.059,0.504,0.241,0.275,9,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+1665,I,0.605,0.47,0.145,0.8025,0.379,0.2265,0.22,9,2,Tiegan,Davie,"University of California, Davis",2,Florida Gulf Coast,18
+1671,F,0.61,0.485,0.15,1.2405,0.6025,0.2915,0.3085,12,13,Betty,Berg,University of Houston,10,Pacific,24.1
+1672,M,0.61,0.47,0.16,1.022,0.449,0.2345,0.2945,9,9,Danica,Tyler,"University of Florida	",10,Pacific,24.1
+1673,F,0.61,0.475,0.16,1.1155,0.3835,0.223,0.379,10,1,Jan,Odom,University of Houston,8,West Coast,12.3
+1679,I,0.62,0.485,0.18,1.154,0.4935,0.256,0.315,12,13,Betty,Berg,University of Houston,7,Great Lakes,2.5
+1681,M,0.62,0.515,0.175,1.221,0.535,0.241,0.395,13,4,Nate,Craig,NOAA Fisheries,5,Southeast,12.8
+1685,I,0.62,0.47,0.14,0.8565,0.3595,0.16,0.295,9,8,Kali,Metcalfe,Mote Marine Laboratory,6,"Gulf of Mexico	",14.1
+1694,I,0.625,0.485,0.15,1.044,0.438,0.2865,0.278,9,8,Kali,Metcalfe,Mote Marine Laboratory,4,Mid-Atlantic,6.1
+1698,M,0.63,0.485,0.165,1.233,0.6565,0.2315,0.3035,10,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+1702,F,0.635,0.49,0.175,1.2435,0.5805,0.313,0.305,10,1,Jan,Odom,University of Houston,10,Pacific,24.1
+1770,M,0.445,0.32,0.12,0.414,0.199,0.09,0.117,7,10,Hazel,Villa,University of Minnesota,6,"Gulf of Mexico	",14.1
+1773,I,0.455,0.345,0.11,0.434,0.207,0.0855,0.1215,8,6,Martin,Gaines,San Diego State University,7,Great Lakes,2.5
+1777,M,0.485,0.37,0.155,0.968,0.419,0.2455,0.2365,9,2,Tiegan,Davie,"University of California, Davis",6,"Gulf of Mexico	",14.1
+1781,M,0.515,0.35,0.155,0.9225,0.4185,0.198,0.273,9,11,Naima,Reyes,University of Houston,1,Florida Atlantic Coast,22.1
+1798,I,0.585,0.45,0.15,0.8915,0.3975,0.2035,0.253,8,15,Conan,Dalton,University of Houston,8,West Coast,12.3
+1800,M,0.6,0.465,0.165,1.038,0.4975,0.2205,0.251,9,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+1803,F,0.61,0.475,0.15,1.1135,0.5195,0.2575,0.3005,11,9,Danica,Tyler,"University of Florida	",1,Florida Atlantic Coast,22.1
+1809,F,0.635,0.475,0.15,1.1845,0.533,0.307,0.291,10,13,Betty,Berg,University of Houston,1,Florida Atlantic Coast,22.1
+1826,I,0.24,0.18,0.055,0.0555,0.0235,0.013,0.018,4,10,Hazel,Villa,University of Minnesota,7,Great Lakes,2.5
+1827,I,0.31,0.215,0.075,0.1275,0.0565,0.0275,0.036,7,4,Nate,Craig,NOAA Fisheries,3,Northeast,3.6
+1828,I,0.34,0.26,0.085,0.1885,0.0815,0.0335,0.06,6,13,Betty,Berg,University of Houston,10,Pacific,24.1
+1830,I,0.365,0.27,0.085,0.197,0.0815,0.0325,0.065,6,14,Santiago,Vaughan,"Ohio State University	",5,Southeast,12.8
+1832,I,0.365,0.27,0.075,0.2215,0.095,0.0445,0.07,6,13,Betty,Berg,University of Houston,7,Great Lakes,2.5
+1836,I,0.41,0.335,0.105,0.3305,0.1405,0.064,0.105,7,10,Hazel,Villa,University of Minnesota,10,Pacific,24.1
+1838,I,0.415,0.31,0.1,0.2805,0.114,0.0565,0.0975,6,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+1840,I,0.42,0.325,0.1,0.368,0.1675,0.0625,0.1135,11,13,Betty,Berg,University of Houston,4,Mid-Atlantic,6.1
+1842,I,0.435,0.335,0.1,0.3245,0.135,0.0785,0.098,7,11,Naima,Reyes,University of Houston,10,Pacific,24.1
+1845,I,0.435,0.345,0.12,0.3215,0.13,0.056,0.1185,7,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+1851,I,0.485,0.36,0.12,0.5155,0.2465,0.1025,0.147,8,10,Hazel,Villa,University of Minnesota,3,Northeast,3.6
+1852,I,0.485,0.37,0.115,0.457,0.1885,0.0965,0.15,9,1,Jan,Odom,University of Houston,3,Northeast,3.6
+1856,I,0.5,0.38,0.11,0.5605,0.28,0.106,0.15,9,7,Iona,Connolly,Florida Atlantic University,10,Pacific,24.1
+1861,I,0.515,0.42,0.15,0.6725,0.2555,0.1335,0.235,10,15,Conan,Dalton,University of Houston,1,Florida Atlantic Coast,22.1
+1863,I,0.52,0.41,0.11,0.5185,0.2165,0.0915,0.184,8,10,Hazel,Villa,University of Minnesota,1,Florida Atlantic Coast,22.1
+1864,I,0.52,0.415,0.14,0.6375,0.308,0.1335,0.168,9,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+1866,I,0.52,0.38,0.115,0.6645,0.3285,0.17,0.1425,7,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+1867,I,0.52,0.385,0.115,0.581,0.2555,0.156,0.143,10,9,Danica,Tyler,"University of Florida	",9,North Pacific,1.9
+1869,I,0.525,0.405,0.145,0.6965,0.3045,0.1535,0.21,8,7,Iona,Connolly,Florida Atlantic University,9,North Pacific,1.9
+1870,I,0.525,0.4,0.145,0.6095,0.248,0.159,0.175,9,1,Jan,Odom,University of Houston,8,West Coast,12.3
+1872,I,0.53,0.43,0.16,0.7245,0.321,0.1275,0.24,9,1,Jan,Odom,University of Houston,10,Pacific,24.1
+1880,I,0.545,0.43,0.14,0.687,0.2615,0.1405,0.25,9,10,Hazel,Villa,University of Minnesota,6,"Gulf of Mexico	",14.1
+1888,I,0.56,0.445,0.165,0.832,0.3455,0.179,0.279,9,10,Hazel,Villa,University of Minnesota,5,Southeast,12.8
+1889,F,0.565,0.445,0.125,0.8305,0.3135,0.1785,0.23,11,10,Hazel,Villa,University of Minnesota,9,North Pacific,1.9
+1892,I,0.565,0.435,0.145,0.8445,0.3975,0.158,0.255,9,5,Haniya,Talley,Prince William Sound Science Center,4,Mid-Atlantic,6.1
+1894,I,0.565,0.46,0.155,0.8715,0.3755,0.215,0.25,10,5,Haniya,Talley,Prince William Sound Science Center,6,"Gulf of Mexico	",14.1
+1897,M,0.57,0.44,0.175,0.9415,0.3805,0.2285,0.283,9,6,Martin,Gaines,San Diego State University,4,Mid-Atlantic,6.1
+1902,M,0.575,0.435,0.135,0.992,0.432,0.2225,0.239,10,15,Conan,Dalton,University of Houston,5,Southeast,12.8
+1903,M,0.575,0.455,0.155,1.013,0.4685,0.2085,0.295,11,13,Betty,Berg,University of Houston,9,North Pacific,1.9
+1907,I,0.575,0.45,0.135,0.8245,0.3375,0.2115,0.239,11,1,Jan,Odom,University of Houston,8,West Coast,12.3
+1909,M,0.575,0.475,0.145,0.857,0.3665,0.173,0.269,9,1,Jan,Odom,University of Houston,7,Great Lakes,2.5
+1910,F,0.58,0.45,0.195,0.8265,0.4035,0.173,0.225,9,3,Inaya,Bernard,Stanford University,5,Southeast,12.8
+1911,F,0.58,0.5,0.165,0.925,0.37,0.185,0.3005,10,13,Betty,Berg,University of Houston,2,Florida Gulf Coast,18
+1912,M,0.58,0.44,0.15,1.0465,0.518,0.2185,0.2795,10,13,Betty,Berg,University of Houston,1,Florida Atlantic Coast,22.1
+1915,M,0.595,0.455,0.15,0.886,0.4315,0.201,0.223,10,4,Nate,Craig,NOAA Fisheries,7,Great Lakes,2.5
+1918,M,0.6,0.475,0.15,0.99,0.386,0.2195,0.3105,10,9,Danica,Tyler,"University of Florida	",5,Southeast,12.8
+1919,F,0.6,0.465,0.16,1.133,0.466,0.2885,0.298,11,14,Santiago,Vaughan,"Ohio State University	",10,Pacific,24.1
+1921,F,0.605,0.455,0.145,0.862,0.334,0.1985,0.3,9,9,Danica,Tyler,"University of Florida	",1,Florida Atlantic Coast,22.1
+1924,F,0.61,0.46,0.145,1.1185,0.478,0.2945,0.2985,10,6,Martin,Gaines,San Diego State University,2,Florida Gulf Coast,18
+1925,F,0.61,0.46,0.155,0.957,0.4255,0.1975,0.265,8,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+1931,M,0.62,0.49,0.16,1.035,0.44,0.2525,0.285,11,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+1937,M,0.625,0.495,0.155,1.0485,0.487,0.212,0.3215,11,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+1939,M,0.625,0.505,0.185,1.1565,0.52,0.2405,0.3535,10,4,Nate,Craig,NOAA Fisheries,10,Pacific,24.1
+1942,F,0.625,0.47,0.145,0.984,0.475,0.2,0.265,11,7,Iona,Connolly,Florida Atlantic University,6,"Gulf of Mexico	",14.1
+1950,M,0.64,0.53,0.165,1.1895,0.4765,0.3,0.35,11,11,Naima,Reyes,University of Houston,1,Florida Atlantic Coast,22.1
+1951,F,0.64,0.48,0.145,1.1145,0.508,0.24,0.34,10,15,Conan,Dalton,University of Houston,5,Southeast,12.8
+1959,I,0.65,0.52,0.15,1.238,0.5495,0.296,0.3305,10,4,Nate,Craig,NOAA Fisheries,5,Southeast,12.8
+1960,F,0.65,0.51,0.155,1.189,0.483,0.278,0.3645,13,10,Hazel,Villa,University of Minnesota,1,Florida Atlantic Coast,22.1
+1997,I,0.325,0.25,0.07,0.1745,0.0875,0.0355,0.04,7,15,Conan,Dalton,University of Houston,4,Mid-Atlantic,6.1
+1999,I,0.35,0.235,0.08,0.17,0.0725,0.0465,0.0495,7,3,Inaya,Bernard,Stanford University,4,Mid-Atlantic,6.1
+2008,I,0.415,0.325,0.11,0.316,0.1385,0.0795,0.0925,8,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+2011,I,0.435,0.325,0.12,0.346,0.159,0.084,0.095,7,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+2014,M,0.47,0.365,0.135,0.522,0.2395,0.1525,0.145,10,5,Haniya,Talley,Prince William Sound Science Center,4,Mid-Atlantic,6.1
+2019,M,0.505,0.385,0.115,0.4825,0.21,0.1035,0.1535,10,7,Iona,Connolly,Florida Atlantic University,5,Southeast,12.8
+2026,F,0.55,0.47,0.15,0.9205,0.381,0.2435,0.2675,10,5,Haniya,Talley,Prince William Sound Science Center,9,North Pacific,1.9
+2027,F,0.56,0.41,0.16,0.8215,0.342,0.184,0.253,9,4,Nate,Craig,NOAA Fisheries,5,Southeast,12.8
+2032,F,0.6,0.45,0.14,0.837,0.37,0.177,0.2425,10,12,Rebecca,Bennett,University of Houston,1,Florida Atlantic Coast,22.1
+2034,M,0.61,0.49,0.16,1.112,0.465,0.228,0.341,10,14,Santiago,Vaughan,"Ohio State University	",5,Southeast,12.8
+2047,I,0.415,0.305,0.12,0.336,0.165,0.076,0.0805,7,9,Danica,Tyler,"University of Florida	",9,North Pacific,1.9
+2053,M,0.46,0.345,0.12,0.4935,0.2435,0.1175,0.132,8,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+2058,I,0.48,0.35,0.135,0.5465,0.2735,0.0995,0.158,8,5,Haniya,Talley,Prince William Sound Science Center,2,Florida Gulf Coast,18
+2060,I,0.49,0.37,0.11,0.538,0.271,0.1035,0.139,8,11,Naima,Reyes,University of Houston,8,West Coast,12.3
+2061,M,0.5,0.39,0.135,0.7815,0.361,0.1575,0.2385,9,5,Haniya,Talley,Prince William Sound Science Center,3,Northeast,3.6
+2063,M,0.505,0.385,0.13,0.6435,0.3135,0.149,0.1515,7,6,Martin,Gaines,San Diego State University,7,Great Lakes,2.5
+2067,F,0.54,0.385,0.14,0.7655,0.3265,0.116,0.2365,10,2,Tiegan,Davie,"University of California, Davis",9,North Pacific,1.9
+2068,F,0.54,0.42,0.13,0.7505,0.368,0.1675,0.1845,9,9,Danica,Tyler,"University of Florida	",9,North Pacific,1.9
+2070,M,0.55,0.41,0.13,0.8705,0.4455,0.2115,0.213,9,6,Martin,Gaines,San Diego State University,4,Mid-Atlantic,6.1
+2075,F,0.585,0.485,0.15,1.079,0.4145,0.2115,0.356,11,2,Tiegan,Davie,"University of California, Davis",8,West Coast,12.3
+2078,F,0.61,0.43,0.14,0.909,0.438,0.2,0.22,8,15,Conan,Dalton,University of Houston,3,Northeast,3.6
+2096,M,0.415,0.3,0.1,0.3355,0.1545,0.0685,0.095,7,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+2100,F,0.4,0.31,0.115,0.3465,0.1475,0.0695,0.115,10,14,Santiago,Vaughan,"Ohio State University	",2,Florida Gulf Coast,18
+2106,M,0.585,0.48,0.185,1.04,0.434,0.265,0.285,10,9,Danica,Tyler,"University of Florida	",10,Pacific,24.1
+2111,I,0.325,0.25,0.055,0.166,0.076,0.051,0.045,5,13,Betty,Berg,University of Houston,2,Florida Gulf Coast,18
+2115,I,0.13,0.095,0.035,0.0105,0.005,0.0065,0.0035,4,6,Martin,Gaines,San Diego State University,6,"Gulf of Mexico	",14.1
+2119,F,0.48,0.38,0.12,0.608,0.2705,0.1405,0.185,8,14,Santiago,Vaughan,"Ohio State University	",8,West Coast,12.3
+2121,M,0.425,0.325,0.1,0.3295,0.1365,0.0725,0.11,7,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+2124,F,0.29,0.21,0.075,0.275,0.113,0.0675,0.035,6,3,Inaya,Bernard,Stanford University,3,Northeast,3.6
+2126,M,0.47,0.375,0.115,0.4265,0.1685,0.0755,0.15,8,11,Naima,Reyes,University of Houston,2,Florida Gulf Coast,18
+2130,M,0.595,0.47,0.15,0.8915,0.359,0.2105,0.245,12,13,Betty,Berg,University of Houston,4,Mid-Atlantic,6.1
+2131,M,0.585,0.455,0.14,0.97,0.462,0.185,0.295,9,2,Tiegan,Davie,"University of California, Davis",4,Mid-Atlantic,6.1
+2144,M,0.47,0.37,0.105,0.4665,0.2025,0.1015,0.155,10,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+2146,F,0.415,0.325,0.115,0.3455,0.1405,0.0765,0.11,9,15,Conan,Dalton,University of Houston,2,Florida Gulf Coast,18
+2149,M,0.415,0.31,0.09,0.3245,0.1305,0.0735,0.115,8,14,Santiago,Vaughan,"Ohio State University	",3,Northeast,3.6
+2166,F,0.61,0.45,0.16,1.136,0.414,0.311,0.3,9,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+2167,I,0.38,0.28,0.085,0.2735,0.115,0.061,0.085,6,6,Martin,Gaines,San Diego State University,4,Mid-Atlantic,6.1
+2170,I,0.165,0.115,0.015,0.0145,0.0055,0.003,0.005,4,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+2175,F,0.645,0.5,0.17,1.1845,0.4805,0.274,0.355,13,3,Inaya,Bernard,Stanford University,9,North Pacific,1.9
+2176,M,0.575,0.45,0.185,0.925,0.342,0.197,0.35,12,12,Rebecca,Bennett,University of Houston,1,Florida Atlantic Coast,22.1
+2177,F,0.57,0.45,0.17,1.098,0.414,0.187,0.405,20,6,Martin,Gaines,San Diego State University,9,North Pacific,1.9
+2179,F,0.595,0.48,0.2,0.975,0.358,0.2035,0.34,15,13,Betty,Berg,University of Houston,5,Southeast,12.8
+2181,F,0.625,0.42,0.165,1.0595,0.358,0.165,0.445,21,4,Nate,Craig,NOAA Fisheries,3,Northeast,3.6
+2182,M,0.535,0.42,0.165,0.9195,0.3355,0.1985,0.26,16,6,Martin,Gaines,San Diego State University,4,Mid-Atlantic,6.1
+2183,M,0.55,0.43,0.16,0.9295,0.317,0.1735,0.355,13,9,Danica,Tyler,"University of Florida	",2,Florida Gulf Coast,18
+2184,M,0.495,0.4,0.155,0.8085,0.2345,0.1155,0.35,6,12,Rebecca,Bennett,University of Houston,5,Southeast,12.8
+2185,I,0.32,0.235,0.08,0.1485,0.064,0.031,0.045,6,3,Inaya,Bernard,Stanford University,7,Great Lakes,2.5
+2189,M,0.47,0.37,0.135,0.547,0.222,0.1325,0.17,12,13,Betty,Berg,University of Houston,4,Mid-Atlantic,6.1
+2191,M,0.58,0.47,0.165,0.927,0.3215,0.1985,0.315,11,3,Inaya,Bernard,Stanford University,10,Pacific,24.1
+2196,I,0.26,0.215,0.08,0.099,0.037,0.0255,0.045,5,2,Tiegan,Davie,"University of California, Davis",8,West Coast,12.3
+2199,I,0.27,0.19,0.08,0.081,0.0265,0.0195,0.03,6,10,Hazel,Villa,University of Minnesota,9,North Pacific,1.9
+2212,M,0.565,0.47,0.195,1.142,0.387,0.258,0.35,17,4,Nate,Craig,NOAA Fisheries,2,Florida Gulf Coast,18
+2216,F,0.455,0.35,0.14,0.5725,0.1965,0.1325,0.175,10,3,Inaya,Bernard,Stanford University,5,Southeast,12.8
+2219,M,0.495,0.39,0.15,0.853,0.3285,0.189,0.27,14,3,Inaya,Bernard,Stanford University,4,Mid-Atlantic,6.1
+2220,F,0.485,0.375,0.145,0.5885,0.2385,0.1155,0.19,13,14,Santiago,Vaughan,"Ohio State University	",5,Southeast,12.8
+2226,M,0.59,0.475,0.155,0.857,0.356,0.174,0.28,13,13,Betty,Berg,University of Houston,5,Southeast,12.8
+2233,F,0.56,0.445,0.18,0.903,0.3575,0.2045,0.295,9,5,Haniya,Talley,Prince William Sound Science Center,10,Pacific,24.1
+2234,M,0.595,0.475,0.17,1.0965,0.419,0.229,0.35,17,5,Haniya,Talley,Prince William Sound Science Center,4,Mid-Atlantic,6.1
+2238,M,0.585,0.465,0.19,1.171,0.3905,0.2355,0.4,17,15,Conan,Dalton,University of Houston,2,Florida Gulf Coast,18
+2239,I,0.46,0.335,0.11,0.444,0.225,0.0745,0.11,8,3,Inaya,Bernard,Stanford University,1,Florida Atlantic Coast,22.1
+2240,F,0.46,0.36,0.115,0.4755,0.2105,0.105,0.16,8,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+2241,M,0.415,0.315,0.125,0.388,0.068,0.09,0.125,12,10,Hazel,Villa,University of Minnesota,5,Southeast,12.8
+2248,F,0.47,0.365,0.12,0.543,0.2295,0.1495,0.15,9,10,Hazel,Villa,University of Minnesota,2,Florida Gulf Coast,18
+2249,M,0.36,0.27,0.09,0.2225,0.083,0.053,0.075,6,10,Hazel,Villa,University of Minnesota,6,"Gulf of Mexico	",14.1
+2259,M,0.43,0.335,0.115,0.406,0.166,0.0935,0.135,8,10,Hazel,Villa,University of Minnesota,4,Mid-Atlantic,6.1
+2269,F,0.545,0.445,0.175,0.8525,0.3465,0.189,0.295,13,3,Inaya,Bernard,Stanford University,5,Southeast,12.8
+2286,I,0.42,0.33,0.1,0.352,0.1635,0.089,0.1,9,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+2291,I,0.325,0.27,0.1,0.185,0.08,0.0435,0.065,6,14,Santiago,Vaughan,"Ohio State University	",4,Mid-Atlantic,6.1
+2302,F,0.52,0.425,0.15,0.813,0.385,0.2015,0.23,10,13,Betty,Berg,University of Houston,5,Southeast,12.8
+2311,F,0.435,0.35,0.11,0.384,0.143,0.1005,0.125,13,11,Naima,Reyes,University of Houston,4,Mid-Atlantic,6.1
+2317,M,0.535,0.435,0.155,0.8915,0.3415,0.177,0.25,13,13,Betty,Berg,University of Houston,8,West Coast,12.3
+2319,F,0.505,0.385,0.135,0.6185,0.251,0.1175,0.2,12,9,Danica,Tyler,"University of Florida	",2,Florida Gulf Coast,18
+2320,F,0.505,0.395,0.145,0.6515,0.2695,0.153,0.205,15,10,Hazel,Villa,University of Minnesota,3,Northeast,3.6
+2322,M,0.49,0.395,0.135,0.5545,0.213,0.0925,0.215,14,7,Iona,Connolly,Florida Atlantic University,3,Northeast,3.6
+2324,I,0.395,0.325,0.105,0.306,0.111,0.0735,0.095,8,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+2327,M,0.43,0.345,0.115,0.3045,0.0925,0.055,0.12,11,5,Haniya,Talley,Prince William Sound Science Center,3,Northeast,3.6
+2328,M,0.475,0.395,0.135,0.592,0.2465,0.1645,0.2,13,15,Conan,Dalton,University of Houston,1,Florida Atlantic Coast,22.1
+2329,F,0.525,0.425,0.145,0.7995,0.3345,0.209,0.24,15,1,Jan,Odom,University of Houston,9,North Pacific,1.9
+2331,I,0.42,0.345,0.115,0.3435,0.1515,0.0795,0.115,9,3,Inaya,Bernard,Stanford University,2,Florida Gulf Coast,18
+2338,M,0.56,0.455,0.165,0.86,0.4015,0.1695,0.245,11,15,Conan,Dalton,University of Houston,10,Pacific,24.1
+2343,I,0.255,0.185,0.07,0.075,0.028,0.018,0.025,6,7,Iona,Connolly,Florida Atlantic University,10,Pacific,24.1
+2348,M,0.505,0.4,0.13,0.764,0.3035,0.189,0.2175,11,1,Jan,Odom,University of Houston,10,Pacific,24.1
+2350,F,0.45,0.36,0.105,0.4715,0.2035,0.0935,0.149,9,13,Betty,Berg,University of Houston,3,Northeast,3.6
+2356,M,0.555,0.44,0.135,0.9025,0.3805,0.2105,0.28,13,3,Inaya,Bernard,Stanford University,10,Pacific,24.1
+2361,F,0.545,0.44,0.175,0.7745,0.2985,0.1875,0.265,11,15,Conan,Dalton,University of Houston,8,West Coast,12.3
+2365,F,0.6,0.47,0.2,1.031,0.392,0.2035,0.29,15,14,Santiago,Vaughan,"Ohio State University	",10,Pacific,24.1
+2368,M,0.65,0.545,0.16,1.2425,0.487,0.296,0.48,15,5,Haniya,Talley,Prince William Sound Science Center,6,"Gulf of Mexico	",14.1
+2370,I,0.56,0.44,0.17,0.9445,0.3545,0.2175,0.3,12,10,Hazel,Villa,University of Minnesota,1,Florida Atlantic Coast,22.1
+2373,F,0.405,0.325,0.11,0.3575,0.145,0.0725,0.11,12,7,Iona,Connolly,Florida Atlantic University,7,Great Lakes,2.5
+2382,M,0.155,0.115,0.025,0.024,0.009,0.005,0.0075,5,12,Rebecca,Bennett,University of Houston,9,North Pacific,1.9
+2385,F,0.44,0.345,0.105,0.4285,0.165,0.083,0.132,11,8,Kali,Metcalfe,Mote Marine Laboratory,3,Northeast,3.6
+2388,I,0.47,0.35,0.135,0.567,0.2315,0.1465,0.1525,11,2,Tiegan,Davie,"University of California, Davis",4,Mid-Atlantic,6.1
+2393,M,0.33,0.25,0.09,0.197,0.085,0.041,0.0605,10,15,Conan,Dalton,University of Houston,6,"Gulf of Mexico	",14.1
+2394,I,0.3,0.22,0.09,0.1425,0.057,0.0335,0.043,7,2,Tiegan,Davie,"University of California, Davis",6,"Gulf of Mexico	",14.1
+2396,I,0.61,0.475,0.17,1.0385,0.4435,0.241,0.32,14,13,Betty,Berg,University of Houston,10,Pacific,24.1
+2416,M,0.4,0.315,0.105,0.287,0.1135,0.037,0.113,10,12,Rebecca,Bennett,University of Houston,6,"Gulf of Mexico	",14.1
+2419,F,0.465,0.35,0.13,0.494,0.1945,0.103,0.155,18,7,Iona,Connolly,Florida Atlantic University,3,Northeast,3.6
+2420,F,0.465,0.36,0.12,0.4765,0.192,0.1125,0.16,10,14,Santiago,Vaughan,"Ohio State University	",5,Southeast,12.8
+2428,M,0.26,0.19,0.075,0.0945,0.0445,0.02,0.03,6,5,Haniya,Talley,Prince William Sound Science Center,6,"Gulf of Mexico	",14.1
+2430,M,0.34,0.255,0.095,0.213,0.081,0.034,0.07,9,7,Iona,Connolly,Florida Atlantic University,7,Great Lakes,2.5
+2436,F,0.465,0.38,0.135,0.579,0.208,0.1095,0.22,14,1,Jan,Odom,University of Houston,7,Great Lakes,2.5
+2441,M,0.465,0.355,0.125,0.5255,0.2025,0.135,0.145,13,14,Santiago,Vaughan,"Ohio State University	",5,Southeast,12.8
+2446,M,0.5,0.38,0.135,0.5835,0.2295,0.1265,0.18,12,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+2451,F,0.42,0.33,0.125,0.463,0.186,0.11,0.145,10,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+2455,I,0.275,0.2,0.065,0.092,0.0385,0.0235,0.027,5,2,Tiegan,Davie,"University of California, Davis",4,Mid-Atlantic,6.1
+2456,I,0.235,0.17,0.065,0.0625,0.023,0.014,0.022,6,6,Martin,Gaines,San Diego State University,10,Pacific,24.1
+2457,I,0.25,0.18,0.06,0.073,0.028,0.017,0.0225,5,14,Santiago,Vaughan,"Ohio State University	",9,North Pacific,1.9
+2459,I,0.2,0.145,0.05,0.036,0.0125,0.008,0.011,4,6,Martin,Gaines,San Diego State University,1,Florida Atlantic Coast,22.1
+2464,M,0.515,0.405,0.14,0.8505,0.312,0.146,0.315,17,9,Danica,Tyler,"University of Florida	",6,"Gulf of Mexico	",14.1
+2465,F,0.52,0.405,0.14,0.6915,0.276,0.137,0.215,11,15,Conan,Dalton,University of Houston,3,Northeast,3.6
+2466,M,0.5,0.39,0.13,0.709,0.275,0.168,0.18,11,11,Naima,Reyes,University of Houston,8,West Coast,12.3
+2467,M,0.425,0.325,0.12,0.3755,0.142,0.1065,0.105,9,14,Santiago,Vaughan,"Ohio State University	",8,West Coast,12.3
+2468,M,0.51,0.415,0.14,0.8185,0.3025,0.2155,0.235,16,13,Betty,Berg,University of Houston,8,West Coast,12.3
+2469,F,0.37,0.275,0.08,0.227,0.093,0.0625,0.07,8,4,Nate,Craig,NOAA Fisheries,2,Florida Gulf Coast,18
+2472,M,0.565,0.44,0.175,1.122,0.393,0.2,0.375,20,9,Danica,Tyler,"University of Florida	",5,Southeast,12.8
+2489,M,0.5,0.385,0.145,0.7615,0.246,0.195,0.204,14,11,Naima,Reyes,University of Houston,10,Pacific,24.1
+2494,I,0.42,0.31,0.1,0.2865,0.115,0.0735,0.085,8,7,Iona,Connolly,Florida Atlantic University,5,Southeast,12.8
+2495,M,0.4,0.305,0.13,0.2935,0.096,0.0675,0.105,9,9,Danica,Tyler,"University of Florida	",3,Northeast,3.6
+2498,M,0.505,0.4,0.155,0.8415,0.2715,0.1775,0.285,12,11,Naima,Reyes,University of Houston,10,Pacific,24.1
+2509,I,0.415,0.315,0.105,0.33,0.1405,0.0705,0.095,6,11,Naima,Reyes,University of Houston,3,Northeast,3.6
+2510,I,0.415,0.315,0.09,0.3625,0.175,0.0835,0.093,6,8,Kali,Metcalfe,Mote Marine Laboratory,3,Northeast,3.6
+2518,M,0.48,0.37,0.135,0.6315,0.3445,0.1015,0.161,7,3,Inaya,Bernard,Stanford University,2,Florida Gulf Coast,18
+2521,M,0.525,0.425,0.19,0.872,0.4625,0.1725,0.199,9,8,Kali,Metcalfe,Mote Marine Laboratory,9,North Pacific,1.9
+2524,F,0.565,0.44,0.15,0.983,0.4475,0.2355,0.2485,9,7,Iona,Connolly,Florida Atlantic University,1,Florida Atlantic Coast,22.1
+2528,M,0.595,0.49,0.185,1.185,0.482,0.2015,0.361,10,5,Haniya,Talley,Prince William Sound Science Center,2,Florida Gulf Coast,18
+2531,F,0.6,0.485,0.165,1.1405,0.587,0.2175,0.288,9,12,Rebecca,Bennett,University of Houston,8,West Coast,12.3
+2549,I,0.275,0.195,0.07,0.0875,0.0345,0.022,0.0255,4,6,Martin,Gaines,San Diego State University,5,Southeast,12.8
+2550,I,0.28,0.21,0.055,0.106,0.0415,0.0265,0.031,5,6,Martin,Gaines,San Diego State University,6,"Gulf of Mexico	",14.1
+2555,I,0.34,0.265,0.07,0.185,0.0625,0.0395,0.07,7,1,Jan,Odom,University of Houston,10,Pacific,24.1
+2556,I,0.37,0.29,0.08,0.2545,0.108,0.0565,0.07,6,15,Conan,Dalton,University of Houston,5,Southeast,12.8
+2559,I,0.405,0.31,0.065,0.3205,0.1575,0.066,0.088,6,7,Iona,Connolly,Florida Atlantic University,1,Florida Atlantic Coast,22.1
+2561,I,0.44,0.335,0.11,0.3885,0.175,0.0835,0.111,7,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+2562,I,0.44,0.345,0.115,0.545,0.269,0.111,0.1305,6,15,Conan,Dalton,University of Houston,6,"Gulf of Mexico	",14.1
+2567,F,0.455,0.35,0.12,0.4555,0.1945,0.1045,0.1375,7,1,Jan,Odom,University of Houston,3,Northeast,3.6
+2569,I,0.46,0.345,0.12,0.4155,0.198,0.0885,0.107,7,3,Inaya,Bernard,Stanford University,8,West Coast,12.3
+2578,I,0.505,0.385,0.12,0.6005,0.239,0.142,0.185,7,10,Hazel,Villa,University of Minnesota,9,North Pacific,1.9
+2581,M,0.525,0.425,0.125,0.812,0.4035,0.1705,0.195,8,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+2584,F,0.53,0.405,0.15,0.889,0.4055,0.2275,0.215,8,12,Rebecca,Bennett,University of Houston,6,"Gulf of Mexico	",14.1
+2590,M,0.575,0.45,0.155,0.948,0.429,0.206,0.259,7,7,Iona,Connolly,Florida Atlantic University,10,Pacific,24.1
+2591,F,0.58,0.445,0.145,0.888,0.41,0.1815,0.2425,8,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+2592,F,0.585,0.45,0.16,0.9045,0.405,0.2215,0.2335,8,11,Naima,Reyes,University of Houston,9,North Pacific,1.9
+2595,F,0.595,0.465,0.15,1.0765,0.491,0.22,0.287,9,9,Danica,Tyler,"University of Florida	",1,Florida Atlantic Coast,22.1
+2597,F,0.6,0.46,0.145,0.9325,0.3985,0.2245,0.248,8,15,Conan,Dalton,University of Houston,8,West Coast,12.3
+2601,F,0.615,0.485,0.16,1.1575,0.5005,0.2495,0.315,10,1,Jan,Odom,University of Houston,8,West Coast,12.3
+2609,F,0.625,0.49,0.175,1.1075,0.4485,0.2165,0.3595,8,11,Naima,Reyes,University of Houston,9,North Pacific,1.9
+2627,I,0.22,0.16,0.05,0.049,0.0215,0.01,0.015,4,7,Iona,Connolly,Florida Atlantic University,8,West Coast,12.3
+2629,I,0.29,0.21,0.06,0.1045,0.0415,0.022,0.035,5,13,Betty,Berg,University of Houston,1,Florida Atlantic Coast,22.1
+2634,I,0.425,0.33,0.115,0.3265,0.1315,0.077,0.103,6,8,Kali,Metcalfe,Mote Marine Laboratory,4,Mid-Atlantic,6.1
+2638,I,0.44,0.335,0.115,0.4215,0.173,0.0765,0.113,7,13,Betty,Berg,University of Houston,5,Southeast,12.8
+2648,I,0.5,0.39,0.125,0.583,0.294,0.132,0.1605,8,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+2649,M,0.5,0.38,0.12,0.5765,0.273,0.135,0.145,9,12,Rebecca,Bennett,University of Houston,7,Great Lakes,2.5
+2651,I,0.51,0.395,0.155,0.5395,0.2465,0.1085,0.167,8,13,Betty,Berg,University of Houston,9,North Pacific,1.9
+2653,I,0.515,0.4,0.125,0.5925,0.265,0.1175,0.168,9,4,Nate,Craig,NOAA Fisheries,5,Southeast,12.8
+2654,I,0.52,0.395,0.135,0.633,0.2985,0.1295,0.175,9,6,Martin,Gaines,San Diego State University,2,Florida Gulf Coast,18
+2659,I,0.55,0.42,0.13,0.636,0.294,0.144,0.1755,8,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+2660,F,0.55,0.44,0.135,0.8435,0.434,0.1995,0.185,8,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+2662,M,0.565,0.43,0.13,0.784,0.3495,0.1885,0.213,9,13,Betty,Berg,University of Houston,3,Northeast,3.6
+2665,F,0.57,0.43,0.16,0.811,0.3875,0.159,0.2285,9,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+2668,F,0.585,0.45,0.15,0.938,0.467,0.203,0.225,7,5,Haniya,Talley,Prince William Sound Science Center,9,North Pacific,1.9
+2674,M,0.595,0.47,0.165,1.108,0.4915,0.2325,0.3345,9,4,Nate,Craig,NOAA Fisheries,3,Northeast,3.6
+2675,M,0.595,0.46,0.14,0.852,0.4215,0.2255,0.227,9,1,Jan,Odom,University of Houston,5,Southeast,12.8
+2682,M,0.62,0.49,0.155,1.1,0.505,0.2475,0.31,9,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+2689,M,0.63,0.465,0.15,1.027,0.537,0.188,0.176,8,3,Inaya,Bernard,Stanford University,8,West Coast,12.3
+2690,M,0.645,0.515,0.16,1.1845,0.506,0.311,0.335,9,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+2691,M,0.645,0.48,0.15,1.192,0.6055,0.2595,0.285,9,1,Jan,Odom,University of Houston,8,West Coast,12.3
+2713,I,0.21,0.15,0.045,0.04,0.0135,0.008,0.0105,4,3,Inaya,Bernard,Stanford University,7,Great Lakes,2.5
+2717,I,0.34,0.245,0.085,0.2015,0.1005,0.038,0.053,6,1,Jan,Odom,University of Houston,1,Florida Atlantic Coast,22.1
+2721,I,0.37,0.275,0.09,0.2065,0.096,0.0395,0.058,7,4,Nate,Craig,NOAA Fisheries,8,West Coast,12.3
+2723,I,0.375,0.275,0.095,0.2295,0.095,0.0545,0.066,7,7,Iona,Connolly,Florida Atlantic University,3,Northeast,3.6
+2725,I,0.385,0.285,0.085,0.244,0.1215,0.0445,0.068,8,5,Haniya,Talley,Prince William Sound Science Center,2,Florida Gulf Coast,18
+2727,I,0.4,0.305,0.1,0.3415,0.176,0.0625,0.0865,7,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+2728,I,0.405,0.305,0.1,0.271,0.0965,0.061,0.091,7,10,Hazel,Villa,University of Minnesota,10,Pacific,24.1
+2729,I,0.405,0.31,0.11,0.91,0.416,0.2075,0.0995,8,10,Hazel,Villa,University of Minnesota,9,North Pacific,1.9
+2733,I,0.41,0.325,0.11,0.326,0.1325,0.075,0.101,8,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+2735,I,0.42,0.325,0.115,0.314,0.1295,0.0635,0.1,8,10,Hazel,Villa,University of Minnesota,9,North Pacific,1.9
+2741,I,0.455,0.34,0.115,0.486,0.261,0.0655,0.1315,8,3,Inaya,Bernard,Stanford University,1,Florida Atlantic Coast,22.1
+2745,M,0.48,0.375,0.12,0.5895,0.2535,0.128,0.172,11,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+2748,I,0.49,0.365,0.125,0.5585,0.252,0.126,0.1615,10,3,Inaya,Bernard,Stanford University,6,"Gulf of Mexico	",14.1
+2755,I,0.525,0.385,0.13,0.607,0.2355,0.125,0.195,8,6,Martin,Gaines,San Diego State University,5,Southeast,12.8
+2760,F,0.545,0.44,0.15,0.9475,0.366,0.239,0.275,8,3,Inaya,Bernard,Stanford University,4,Mid-Atlantic,6.1
+2761,I,0.55,0.43,0.145,0.712,0.3025,0.152,0.225,10,8,Kali,Metcalfe,Mote Marine Laboratory,9,North Pacific,1.9
+2772,F,0.575,0.435,0.155,0.8975,0.4115,0.2325,0.23,9,2,Tiegan,Davie,"University of California, Davis",2,Florida Gulf Coast,18
+2775,F,0.58,0.425,0.15,0.844,0.3645,0.185,0.2705,9,11,Naima,Reyes,University of Houston,2,Florida Gulf Coast,18
+2784,M,0.6,0.495,0.185,1.1145,0.5055,0.2635,0.367,11,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+2788,F,0.61,0.45,0.13,0.8725,0.389,0.1715,0.272,11,5,Haniya,Talley,Prince William Sound Science Center,5,Southeast,12.8
+2792,M,0.625,0.5,0.14,1.096,0.5445,0.2165,0.295,10,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+2793,M,0.625,0.49,0.165,1.205,0.5175,0.3105,0.3465,10,4,Nate,Craig,NOAA Fisheries,7,Great Lakes,2.5
+2794,M,0.63,0.505,0.175,1.221,0.555,0.252,0.34,12,3,Inaya,Bernard,Stanford University,2,Florida Gulf Coast,18
+2795,F,0.63,0.475,0.155,1.0005,0.452,0.252,0.265,10,7,Iona,Connolly,Florida Atlantic University,8,West Coast,12.3
+2800,M,0.64,0.495,0.17,1.139,0.5395,0.282,0.285,10,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+2801,F,0.64,0.495,0.17,1.2265,0.49,0.377,0.2875,11,6,Martin,Gaines,San Diego State University,3,Northeast,3.6
+2815,I,0.275,0.2,0.055,0.0925,0.038,0.021,0.026,4,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+2817,I,0.325,0.24,0.075,0.1525,0.072,0.0645,0.043,6,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+2822,I,0.39,0.29,0.09,0.2625,0.117,0.054,0.077,7,2,Tiegan,Davie,"University of California, Davis",4,Mid-Atlantic,6.1
+2824,I,0.455,0.35,0.105,0.4445,0.213,0.107,0.1115,7,10,Hazel,Villa,University of Minnesota,10,Pacific,24.1
+2825,I,0.46,0.365,0.115,0.511,0.2365,0.118,0.123,7,7,Iona,Connolly,Florida Atlantic University,10,Pacific,24.1
+2826,I,0.495,0.375,0.12,0.589,0.3075,0.1215,0.1405,8,9,Danica,Tyler,"University of Florida	",8,West Coast,12.3
+2830,I,0.52,0.395,0.145,0.77,0.424,0.142,0.1895,7,9,Danica,Tyler,"University of Florida	",5,Southeast,12.8
+2833,F,0.54,0.42,0.14,0.8035,0.38,0.1805,0.21,9,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+2836,M,0.57,0.42,0.14,0.8745,0.416,0.165,0.25,8,7,Iona,Connolly,Florida Atlantic University,4,Mid-Atlantic,6.1
+2842,M,0.595,0.435,0.16,1.057,0.4255,0.224,0.31,9,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+2850,M,0.63,0.49,0.165,1.2005,0.575,0.273,0.294,10,6,Martin,Gaines,San Diego State University,9,North Pacific,1.9
+2865,I,0.31,0.23,0.07,0.1245,0.0505,0.0265,0.038,6,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+2871,I,0.37,0.27,0.09,0.1855,0.07,0.0425,0.065,7,3,Inaya,Bernard,Stanford University,3,Northeast,3.6
+2873,I,0.4,0.315,0.09,0.3245,0.151,0.073,0.088,8,3,Inaya,Bernard,Stanford University,5,Southeast,12.8
+2876,I,0.435,0.335,0.095,0.298,0.109,0.058,0.115,7,6,Martin,Gaines,San Diego State University,6,"Gulf of Mexico	",14.1
+2879,F,0.465,0.35,0.11,0.4085,0.165,0.102,0.131,8,13,Betty,Berg,University of Houston,1,Florida Atlantic Coast,22.1
+2880,I,0.47,0.385,0.13,0.587,0.264,0.117,0.174,8,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+2886,I,0.505,0.4,0.125,0.5605,0.2255,0.1435,0.17,8,3,Inaya,Bernard,Stanford University,1,Florida Atlantic Coast,22.1
+2889,I,0.51,0.4,0.125,0.5935,0.239,0.13,0.204,8,15,Conan,Dalton,University of Houston,2,Florida Gulf Coast,18
+2892,I,0.53,0.38,0.125,0.616,0.292,0.113,0.185,8,5,Haniya,Talley,Prince William Sound Science Center,9,North Pacific,1.9
+2894,F,0.535,0.445,0.125,0.8725,0.417,0.199,0.24,8,4,Nate,Craig,NOAA Fisheries,3,Northeast,3.6
+2901,F,0.55,0.435,0.14,0.745,0.347,0.174,0.2265,9,7,Iona,Connolly,Florida Atlantic University,5,Southeast,12.8
+2908,M,0.58,0.46,0.15,1.049,0.5205,0.1935,0.305,10,9,Danica,Tyler,"University of Florida	",5,Southeast,12.8
+2911,M,0.58,0.445,0.15,0.9525,0.4315,0.1945,0.287,11,9,Danica,Tyler,"University of Florida	",2,Florida Gulf Coast,18
+2916,I,0.59,0.475,0.145,0.9745,0.4675,0.207,0.259,10,2,Tiegan,Davie,"University of California, Davis",2,Florida Gulf Coast,18
+2920,F,0.6,0.48,0.17,1.056,0.4575,0.2435,0.3135,10,12,Rebecca,Bennett,University of Houston,10,Pacific,24.1
+2925,M,0.605,0.49,0.18,1.167,0.457,0.29,0.3745,9,9,Danica,Tyler,"University of Florida	",2,Florida Gulf Coast,18
+2929,M,0.61,0.48,0.14,1.0625,0.516,0.225,0.2915,11,12,Rebecca,Bennett,University of Houston,7,Great Lakes,2.5
+2930,I,0.61,0.49,0.16,1.1545,0.5865,0.2385,0.2915,11,6,Martin,Gaines,San Diego State University,1,Florida Atlantic Coast,22.1
+2932,F,0.615,0.515,0.135,1.1215,0.545,0.2305,0.29,9,9,Danica,Tyler,"University of Florida	",6,"Gulf of Mexico	",14.1
+2933,M,0.615,0.455,0.15,0.9335,0.382,0.247,0.2615,10,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+2934,F,0.615,0.495,0.165,1.198,0.5415,0.2865,0.3185,10,6,Martin,Gaines,San Diego State University,9,North Pacific,1.9
+2938,M,0.625,0.515,0.165,1.217,0.667,0.2065,0.3115,10,9,Danica,Tyler,"University of Florida	",5,Southeast,12.8
+2939,F,0.625,0.5,0.16,1.217,0.5725,0.207,0.355,11,11,Naima,Reyes,University of Houston,5,Southeast,12.8
+2953,F,0.645,0.485,0.15,1.151,0.5935,0.2315,0.293,12,1,Jan,Odom,University of Houston,5,Southeast,12.8
+2989,M,0.555,0.425,0.15,0.873,0.4625,0.1845,0.1965,9,9,Danica,Tyler,"University of Florida	",2,Florida Gulf Coast,18
+2992,M,0.595,0.485,0.15,1.0835,0.5305,0.231,0.276,8,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+2993,I,0.595,0.43,0.165,0.9845,0.4525,0.207,0.2725,8,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+2995,M,0.61,0.475,0.175,1.024,0.409,0.261,0.322,9,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+2998,F,0.625,0.49,0.11,1.136,0.5265,0.1915,0.2925,9,4,Nate,Craig,NOAA Fisheries,1,Florida Atlantic Coast,22.1
+3001,M,0.64,0.485,0.16,1.006,0.456,0.2245,0.2835,9,3,Inaya,Bernard,Stanford University,6,"Gulf of Mexico	",14.1
+3012,I,0.375,0.285,0.09,0.237,0.106,0.0395,0.08,8,6,Martin,Gaines,San Diego State University,4,Mid-Atlantic,6.1
+3020,I,0.45,0.33,0.115,0.365,0.14,0.0825,0.1245,8,8,Kali,Metcalfe,Mote Marine Laboratory,8,West Coast,12.3
+3022,I,0.455,0.355,0.105,0.372,0.138,0.0765,0.135,9,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+3023,I,0.46,0.37,0.11,0.3965,0.1485,0.0855,0.1455,8,3,Inaya,Bernard,Stanford University,1,Florida Atlantic Coast,22.1
+3029,I,0.515,0.385,0.125,0.572,0.237,0.1435,0.165,7,6,Martin,Gaines,San Diego State University,5,Southeast,12.8
+3038,M,0.56,0.45,0.145,0.894,0.3885,0.2095,0.264,9,8,Kali,Metcalfe,Mote Marine Laboratory,4,Mid-Atlantic,6.1
+3039,I,0.565,0.44,0.135,0.768,0.3305,0.1385,0.2475,9,15,Conan,Dalton,University of Houston,3,Northeast,3.6
+3040,M,0.57,0.45,0.145,0.95,0.4005,0.2235,0.2845,10,12,Rebecca,Bennett,University of Houston,5,Southeast,12.8
+3045,I,0.575,0.445,0.16,0.9175,0.45,0.1935,0.24,9,6,Martin,Gaines,San Diego State University,7,Great Lakes,2.5
+3047,M,0.585,0.45,0.175,1.1275,0.4925,0.262,0.335,11,13,Betty,Berg,University of Houston,10,Pacific,24.1
+3050,M,0.59,0.405,0.15,0.853,0.326,0.2615,0.245,9,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+3053,F,0.595,0.46,0.16,0.921,0.4005,0.2025,0.2875,9,2,Tiegan,Davie,"University of California, Davis",6,"Gulf of Mexico	",14.1
+3054,F,0.6,0.45,0.14,0.869,0.3425,0.195,0.291,11,5,Haniya,Talley,Prince William Sound Science Center,7,Great Lakes,2.5
+3056,F,0.61,0.495,0.16,1.089,0.469,0.198,0.384,11,13,Betty,Berg,University of Houston,7,Great Lakes,2.5
+3064,F,0.635,0.49,0.155,1.145,0.4775,0.3035,0.3155,9,10,Hazel,Villa,University of Minnesota,1,Florida Atlantic Coast,22.1
+3065,M,0.635,0.5,0.18,1.154,0.4405,0.2315,0.387,9,11,Naima,Reyes,University of Houston,4,Mid-Atlantic,6.1
+3085,I,0.23,0.17,0.05,0.057,0.026,0.013,0.016,5,10,Hazel,Villa,University of Minnesota,9,North Pacific,1.9
+3087,I,0.355,0.27,0.075,0.204,0.3045,0.046,0.0595,7,15,Conan,Dalton,University of Houston,8,West Coast,12.3
+3099,F,0.55,0.43,0.15,0.655,0.2635,0.122,0.221,8,14,Santiago,Vaughan,"Ohio State University	",4,Mid-Atlantic,6.1
+3100,M,0.575,0.48,0.15,0.9465,0.4355,0.2605,0.2505,9,12,Rebecca,Bennett,University of Houston,4,Mid-Atlantic,6.1
+3109,I,0.375,0.285,0.08,0.226,0.0975,0.04,0.0725,7,6,Martin,Gaines,San Diego State University,6,"Gulf of Mexico	",14.1
+3110,I,0.38,0.29,0.085,0.2285,0.088,0.0465,0.075,7,14,Santiago,Vaughan,"Ohio State University	",8,West Coast,12.3
+3113,I,0.415,0.32,0.115,0.3045,0.1215,0.0735,0.094,7,14,Santiago,Vaughan,"Ohio State University	",4,Mid-Atlantic,6.1
+3125,F,0.575,0.45,0.135,0.8285,0.362,0.1655,0.236,10,11,Naima,Reyes,University of Houston,7,Great Lakes,2.5
+3129,F,0.63,0.495,0.19,1.1655,0.536,0.2115,0.1625,10,1,Jan,Odom,University of Houston,1,Florida Atlantic Coast,22.1
+3136,M,0.46,0.35,0.125,0.5165,0.1885,0.1145,0.185,9,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+3139,M,0.51,0.4,0.14,0.6905,0.259,0.151,0.23,10,11,Naima,Reyes,University of Houston,2,Florida Gulf Coast,18
+3144,I,0.2,0.15,0.04,0.046,0.021,0.007,0.0065,4,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+3146,M,0.55,0.42,0.17,0.8465,0.336,0.2405,0.245,13,8,Kali,Metcalfe,Mote Marine Laboratory,2,Florida Gulf Coast,18
+3157,M,0.535,0.44,0.165,0.875,0.279,0.18,0.3,10,14,Santiago,Vaughan,"Ohio State University	",4,Mid-Atlantic,6.1
+3168,M,0.605,0.49,0.155,1.153,0.503,0.2505,0.295,15,7,Iona,Connolly,Florida Atlantic University,5,Southeast,12.8
+3169,M,0.605,0.47,0.115,1.114,0.3925,0.291,0.31,15,13,Betty,Berg,University of Houston,10,Pacific,24.1
+3172,M,0.525,0.405,0.16,0.792,0.316,0.1455,0.28,13,10,Hazel,Villa,University of Minnesota,8,West Coast,12.3
+3173,F,0.505,0.405,0.18,0.606,0.239,0.1235,0.18,11,12,Rebecca,Bennett,University of Houston,9,North Pacific,1.9
+3174,M,0.35,0.265,0.09,0.2265,0.0995,0.0575,0.065,6,15,Conan,Dalton,University of Houston,9,North Pacific,1.9
+3175,M,0.45,0.355,0.12,0.3955,0.147,0.0765,0.145,9,9,Danica,Tyler,"University of Florida	",6,"Gulf of Mexico	",14.1
+3176,I,0.51,0.405,0.12,0.61,0.229,0.131,0.235,11,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+3177,F,0.49,0.38,0.13,0.539,0.229,0.1355,0.165,12,3,Inaya,Bernard,Stanford University,8,West Coast,12.3
+3178,F,0.505,0.41,0.135,0.657,0.291,0.133,0.195,15,2,Tiegan,Davie,"University of California, Davis",4,Mid-Atlantic,6.1
+3181,F,0.37,0.295,0.1,0.2685,0.1165,0.056,0.0835,7,8,Kali,Metcalfe,Mote Marine Laboratory,3,Northeast,3.6
+3188,F,0.51,0.385,0.135,0.632,0.282,0.145,0.17,8,15,Conan,Dalton,University of Houston,10,Pacific,24.1
+3199,M,0.45,0.335,0.14,0.478,0.1865,0.115,0.16,11,13,Betty,Berg,University of Houston,9,North Pacific,1.9
+3206,M,0.335,0.265,0.095,0.1975,0.0795,0.0375,0.07,9,14,Santiago,Vaughan,"Ohio State University	",7,Great Lakes,2.5
+3212,F,0.6,0.48,0.165,1.1345,0.4535,0.27,0.335,10,14,Santiago,Vaughan,"Ohio State University	",5,Southeast,12.8
+3214,F,0.555,0.42,0.14,0.868,0.33,0.243,0.21,13,8,Kali,Metcalfe,Mote Marine Laboratory,5,Southeast,12.8
+3218,M,0.425,0.34,0.12,0.388,0.149,0.087,0.125,10,1,Jan,Odom,University of Houston,5,Southeast,12.8
+3221,M,0.5,0.4,0.145,0.6025,0.216,0.138,0.21,11,8,Kali,Metcalfe,Mote Marine Laboratory,3,Northeast,3.6
+3226,I,0.44,0.35,0.12,0.375,0.1425,0.0965,0.115,9,4,Nate,Craig,NOAA Fisheries,8,West Coast,12.3
+3244,F,0.655,0.51,0.16,1.092,0.396,0.2825,0.37,14,14,Santiago,Vaughan,"Ohio State University	",5,Southeast,12.8
+3247,M,0.55,0.435,0.16,0.906,0.342,0.219,0.295,13,2,Tiegan,Davie,"University of California, Davis",3,Northeast,3.6
+3248,F,0.61,0.495,0.19,1.213,0.464,0.306,0.365,15,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+3251,F,0.435,0.35,0.125,0.459,0.197,0.1145,0.145,9,7,Iona,Connolly,Florida Atlantic University,7,Great Lakes,2.5
+3268,F,0.4,0.335,0.115,0.4335,0.2105,0.1205,0.12,10,4,Nate,Craig,NOAA Fisheries,4,Mid-Atlantic,6.1
+3269,M,0.41,0.31,0.125,0.3595,0.1415,0.0885,0.115,11,11,Naima,Reyes,University of Houston,9,North Pacific,1.9
+3270,F,0.595,0.465,0.145,1.107,0.402,0.2415,0.31,12,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+3275,F,0.5,0.405,0.14,0.6735,0.265,0.124,0.25,18,7,Iona,Connolly,Florida Atlantic University,6,"Gulf of Mexico	",14.1
+3276,M,0.46,0.355,0.11,0.415,0.215,0.082,0.13,12,13,Betty,Berg,University of Houston,8,West Coast,12.3
+3279,M,0.525,0.415,0.16,0.6445,0.26,0.1575,0.22,12,11,Naima,Reyes,University of Houston,8,West Coast,12.3
+3283,F,0.58,0.475,0.165,1.0385,0.414,0.26,0.305,13,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+3284,F,0.59,0.475,0.155,0.9715,0.371,0.235,0.28,11,1,Jan,Odom,University of Houston,5,Southeast,12.8
+3289,F,0.605,0.475,0.145,1.0185,0.4695,0.225,0.27,15,10,Hazel,Villa,University of Minnesota,7,Great Lakes,2.5
+3290,M,0.535,0.42,0.16,0.72,0.275,0.164,0.225,15,11,Naima,Reyes,University of Houston,7,Great Lakes,2.5
+3293,F,0.495,0.375,0.15,0.597,0.2615,0.135,0.178,11,15,Conan,Dalton,University of Houston,4,Mid-Atlantic,6.1
+3295,F,0.63,0.5,0.16,1.22,0.4905,0.3,0.345,14,6,Martin,Gaines,San Diego State University,5,Southeast,12.8
+3298,M,0.645,0.5,0.19,1.229,0.524,0.278,0.395,17,15,Conan,Dalton,University of Houston,2,Florida Gulf Coast,18
+3299,F,0.62,0.5,0.175,1.146,0.477,0.23,0.39,13,1,Jan,Odom,University of Houston,5,Southeast,12.8
+3309,M,0.275,0.2,0.08,0.099,0.037,0.024,0.03,5,12,Rebecca,Bennett,University of Houston,6,"Gulf of Mexico	",14.1
+3311,F,0.62,0.485,0.165,1.166,0.483,0.238,0.355,13,11,Naima,Reyes,University of Houston,1,Florida Atlantic Coast,22.1
+3312,F,0.48,0.38,0.135,0.507,0.1915,0.1365,0.155,12,15,Conan,Dalton,University of Houston,5,Southeast,12.8
+3315,I,0.45,0.355,0.115,0.4385,0.184,0.108,0.1125,11,4,Nate,Craig,NOAA Fisheries,9,North Pacific,1.9
+3319,M,0.165,0.125,0.04,0.0245,0.0095,0.0045,0.008,4,1,Jan,Odom,University of Houston,6,"Gulf of Mexico	",14.1
+3322,I,0.49,0.385,0.14,0.5425,0.198,0.127,0.175,11,2,Tiegan,Davie,"University of California, Davis",1,Florida Atlantic Coast,22.1
+3334,I,0.45,0.36,0.125,0.45,0.191,0.0865,0.145,12,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+3340,F,0.585,0.475,0.185,0.8575,0.3465,0.1785,0.275,12,6,Martin,Gaines,San Diego State University,1,Florida Atlantic Coast,22.1
+3345,I,0.495,0.38,0.145,0.515,0.175,0.098,0.212,13,15,Conan,Dalton,University of Houston,8,West Coast,12.3
+3346,F,0.48,0.38,0.145,0.59,0.232,0.141,0.23,12,6,Martin,Gaines,San Diego State University,4,Mid-Atlantic,6.1
+3348,M,0.415,0.32,0.1,0.3005,0.1215,0.0575,0.104,11,11,Naima,Reyes,University of Houston,3,Northeast,3.6
+3350,I,0.47,0.375,0.105,0.468,0.1665,0.108,0.17,10,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+3357,I,0.39,0.3,0.1,0.3085,0.1385,0.0735,0.085,6,1,Jan,Odom,University of Houston,3,Northeast,3.6
+3359,M,0.285,0.215,0.075,0.106,0.0415,0.023,0.035,5,2,Tiegan,Davie,"University of California, Davis",2,Florida Gulf Coast,18
+3361,F,0.58,0.44,0.175,1.073,0.4005,0.2345,0.335,19,1,Jan,Odom,University of Houston,8,West Coast,12.3
+3364,I,0.54,0.405,0.15,0.7585,0.307,0.2075,0.19,10,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+3366,I,0.44,0.31,0.115,0.3625,0.134,0.082,0.12,11,2,Tiegan,Davie,"University of California, Davis",8,West Coast,12.3
+3367,M,0.28,0.21,0.065,0.0905,0.035,0.02,0.03,5,2,Tiegan,Davie,"University of California, Davis",2,Florida Gulf Coast,18
+3373,I,0.44,0.33,0.135,0.522,0.17,0.0905,0.195,16,9,Danica,Tyler,"University of Florida	",8,West Coast,12.3
+3378,I,0.255,0.19,0.07,0.0815,0.028,0.016,0.031,5,4,Nate,Craig,NOAA Fisheries,8,West Coast,12.3
+3385,F,0.305,0.225,0.07,0.1485,0.0585,0.0335,0.045,7,10,Hazel,Villa,University of Minnesota,8,West Coast,12.3
+3386,F,0.475,0.35,0.115,0.487,0.194,0.1455,0.125,13,10,Hazel,Villa,University of Minnesota,5,Southeast,12.8
+3390,M,0.565,0.465,0.15,1.1285,0.377,0.3525,0.33,16,4,Nate,Craig,NOAA Fisheries,3,Northeast,3.6
+3391,M,0.56,0.44,0.16,1.1115,0.5035,0.2785,0.26,10,14,Santiago,Vaughan,"Ohio State University	",9,North Pacific,1.9
+3395,M,0.62,0.48,0.16,1.0765,0.412,0.253,0.3,13,15,Conan,Dalton,University of Houston,7,Great Lakes,2.5
+3396,F,0.605,0.45,0.165,1.2225,0.357,0.202,0.385,13,11,Naima,Reyes,University of Houston,2,Florida Gulf Coast,18
+3402,M,0.48,0.395,0.15,0.6815,0.2145,0.1405,0.2495,18,9,Danica,Tyler,"University of Florida	",6,"Gulf of Mexico	",14.1
+3406,I,0.34,0.25,0.075,0.1765,0.0785,0.0405,0.05,7,4,Nate,Craig,NOAA Fisheries,1,Florida Atlantic Coast,22.1
+3409,I,0.39,0.315,0.09,0.3095,0.147,0.05,0.09,7,9,Danica,Tyler,"University of Florida	",9,North Pacific,1.9
+3412,I,0.43,0.32,0.1,0.3855,0.192,0.0745,0.1,7,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+3413,I,0.48,0.355,0.115,0.5785,0.25,0.106,0.184,8,9,Danica,Tyler,"University of Florida	",6,"Gulf of Mexico	",14.1
+3415,F,0.49,0.37,0.105,0.5265,0.249,0.1005,0.148,7,2,Tiegan,Davie,"University of California, Davis",4,Mid-Atlantic,6.1
+3421,F,0.595,0.475,0.165,1.148,0.444,0.214,0.37,10,11,Naima,Reyes,University of Houston,7,Great Lakes,2.5
+3422,M,0.6,0.475,0.15,1.089,0.5195,0.223,0.292,11,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+3437,I,0.38,0.275,0.095,0.2505,0.0945,0.0655,0.075,6,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+3438,I,0.395,0.3,0.09,0.279,0.134,0.049,0.075,8,8,Kali,Metcalfe,Mote Marine Laboratory,2,Florida Gulf Coast,18
+3442,F,0.465,0.355,0.115,0.4705,0.1955,0.118,0.126,7,11,Naima,Reyes,University of Houston,7,Great Lakes,2.5
+3443,M,0.48,0.37,0.13,0.643,0.349,0.1155,0.135,8,12,Rebecca,Bennett,University of Houston,10,Pacific,24.1
+3448,F,0.505,0.39,0.12,0.5725,0.2555,0.1325,0.146,8,2,Tiegan,Davie,"University of California, Davis",7,Great Lakes,2.5
+3449,M,0.52,0.39,0.12,0.6435,0.2885,0.157,0.161,7,4,Nate,Craig,NOAA Fisheries,3,Northeast,3.6
+3451,F,0.525,0.44,0.125,0.7115,0.3205,0.159,0.1915,7,6,Martin,Gaines,San Diego State University,9,North Pacific,1.9
+3455,F,0.575,0.46,0.165,1.065,0.4985,0.2145,0.2815,8,12,Rebecca,Bennett,University of Houston,7,Great Lakes,2.5
+3461,M,0.62,0.485,0.165,1.1325,0.5235,0.2505,0.2825,9,14,Santiago,Vaughan,"Ohio State University	",3,Northeast,3.6
+3475,I,0.355,0.265,0.085,0.2435,0.122,0.0525,0.06,6,10,Hazel,Villa,University of Minnesota,3,Northeast,3.6
+3479,I,0.435,0.335,0.11,0.411,0.2025,0.0945,0.1,7,12,Rebecca,Bennett,University of Houston,9,North Pacific,1.9
+3485,I,0.475,0.42,0.16,0.7095,0.35,0.1505,0.1845,8,6,Martin,Gaines,San Diego State University,6,"Gulf of Mexico	",14.1
+3492,M,0.55,0.44,0.16,0.985,0.4645,0.201,0.27,8,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+3495,F,0.555,0.43,0.135,0.812,0.4055,0.163,0.2215,9,11,Naima,Reyes,University of Houston,7,Great Lakes,2.5
+3496,M,0.56,0.415,0.13,0.7615,0.3695,0.17,0.1955,8,13,Betty,Berg,University of Houston,9,North Pacific,1.9
+3501,M,0.6,0.41,0.145,0.939,0.4475,0.196,0.268,8,10,Hazel,Villa,University of Minnesota,8,West Coast,12.3
+3503,M,0.61,0.47,0.175,1.214,0.5315,0.2835,0.325,10,3,Inaya,Bernard,Stanford University,4,Mid-Atlantic,6.1
+3505,F,0.62,0.51,0.18,1.233,0.592,0.274,0.322,10,12,Rebecca,Bennett,University of Houston,1,Florida Atlantic Coast,22.1
+3509,F,0.64,0.475,0.175,1.1545,0.4865,0.341,0.288,9,10,Hazel,Villa,University of Minnesota,5,Southeast,12.8
+3527,I,0.335,0.26,0.085,0.192,0.097,0.03,0.054,6,12,Rebecca,Bennett,University of Houston,5,Southeast,12.8
+3528,I,0.35,0.26,0.09,0.1765,0.072,0.0355,0.0575,7,10,Hazel,Villa,University of Minnesota,5,Southeast,12.8
+3532,I,0.365,0.275,0.09,0.2345,0.108,0.051,0.0625,7,1,Jan,Odom,University of Houston,10,Pacific,24.1
+3533,I,0.38,0.285,0.09,0.2305,0.1005,0.039,0.0775,7,5,Haniya,Talley,Prince William Sound Science Center,10,Pacific,24.1
+3535,I,0.4,0.315,0.09,0.33,0.151,0.068,0.08,6,3,Inaya,Bernard,Stanford University,6,"Gulf of Mexico	",14.1
+3536,I,0.4,0.265,0.1,0.2775,0.1245,0.0605,0.08,9,11,Naima,Reyes,University of Houston,1,Florida Atlantic Coast,22.1
+3544,I,0.46,0.34,0.09,0.384,0.1795,0.068,0.11,8,15,Conan,Dalton,University of Houston,5,Southeast,12.8
+3547,I,0.475,0.35,0.115,0.498,0.2375,0.099,0.14,7,12,Rebecca,Bennett,University of Houston,3,Northeast,3.6
+3549,F,0.495,0.37,0.12,0.594,0.28,0.11,0.1375,7,12,Rebecca,Bennett,University of Houston,5,Southeast,12.8
+3555,I,0.53,0.42,0.13,0.658,0.296,0.1245,0.198,8,7,Iona,Connolly,Florida Atlantic University,3,Northeast,3.6
+3556,M,0.535,0.415,0.135,0.78,0.3165,0.169,0.2365,8,4,Nate,Craig,NOAA Fisheries,7,Great Lakes,2.5
+3558,I,0.54,0.41,0.135,0.7025,0.31,0.177,0.2,8,5,Haniya,Talley,Prince William Sound Science Center,2,Florida Gulf Coast,18
+3559,I,0.55,0.425,0.155,0.8725,0.412,0.187,0.2425,10,14,Santiago,Vaughan,"Ohio State University	",4,Mid-Atlantic,6.1
+3565,I,0.575,0.44,0.125,0.8515,0.4555,0.1715,0.1965,9,5,Haniya,Talley,Prince William Sound Science Center,5,Southeast,12.8
+3566,F,0.575,0.475,0.16,0.895,0.3605,0.221,0.271,9,13,Betty,Berg,University of Houston,5,Southeast,12.8
+3570,I,0.58,0.47,0.15,0.907,0.444,0.1855,0.2445,11,14,Santiago,Vaughan,"Ohio State University	",6,"Gulf of Mexico	",14.1
+3575,F,0.6,0.47,0.17,1.0805,0.4995,0.2245,0.3205,9,4,Nate,Craig,NOAA Fisheries,10,Pacific,24.1
+3579,F,0.6,0.475,0.17,1.088,0.4905,0.2475,0.31,10,9,Danica,Tyler,"University of Florida	",3,Northeast,3.6
+3581,F,0.62,0.48,0.165,1.043,0.4835,0.221,0.31,10,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+3601,I,0.175,0.125,0.04,0.028,0.0095,0.008,0.009,4,7,Iona,Connolly,Florida Atlantic University,2,Florida Gulf Coast,18
+3604,I,0.42,0.325,0.11,0.325,0.1245,0.0755,0.1025,7,14,Santiago,Vaughan,"Ohio State University	",9,North Pacific,1.9
+3605,I,0.455,0.37,0.11,0.514,0.2385,0.1235,0.126,8,12,Rebecca,Bennett,University of Houston,7,Great Lakes,2.5
+3607,F,0.51,0.375,0.11,0.5805,0.2865,0.118,0.148,7,9,Danica,Tyler,"University of Florida	",8,West Coast,12.3
+3633,I,0.3,0.225,0.075,0.1345,0.057,0.028,0.044,5,5,Haniya,Talley,Prince William Sound Science Center,5,Southeast,12.8
+3634,I,0.3,0.22,0.065,0.1195,0.052,0.0155,0.035,5,13,Betty,Berg,University of Houston,9,North Pacific,1.9
+3636,I,0.37,0.275,0.095,0.257,0.1015,0.055,0.0825,6,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+3639,I,0.44,0.34,0.105,0.344,0.123,0.081,0.125,8,11,Naima,Reyes,University of Houston,1,Florida Atlantic Coast,22.1
+3645,I,0.475,0.365,0.105,0.4175,0.1645,0.099,0.127,7,9,Danica,Tyler,"University of Florida	",9,North Pacific,1.9
+3646,I,0.475,0.335,0.1,0.4425,0.1895,0.086,0.135,9,10,Hazel,Villa,University of Minnesota,3,Northeast,3.6
+3655,I,0.53,0.42,0.14,0.6765,0.256,0.1855,0.208,9,6,Martin,Gaines,San Diego State University,1,Florida Atlantic Coast,22.1
+3658,M,0.535,0.405,0.14,0.7315,0.336,0.156,0.19,7,10,Hazel,Villa,University of Minnesota,1,Florida Atlantic Coast,22.1
+3659,I,0.535,0.45,0.155,0.8075,0.3655,0.148,0.2595,10,4,Nate,Craig,NOAA Fisheries,9,North Pacific,1.9
+3662,I,0.55,0.415,0.15,0.7915,0.3535,0.176,0.236,10,15,Conan,Dalton,University of Houston,4,Mid-Atlantic,6.1
+3664,I,0.55,0.4,0.135,0.717,0.3315,0.1495,0.221,9,1,Jan,Odom,University of Houston,8,West Coast,12.3
+3665,I,0.555,0.43,0.15,0.783,0.345,0.1755,0.247,9,1,Jan,Odom,University of Houston,8,West Coast,12.3
+3667,I,0.575,0.44,0.15,0.983,0.486,0.215,0.239,8,1,Jan,Odom,University of Houston,9,North Pacific,1.9
+3669,F,0.585,0.465,0.145,0.9855,0.4325,0.2145,0.2845,10,8,Kali,Metcalfe,Mote Marine Laboratory,9,North Pacific,1.9
+3670,I,0.585,0.46,0.14,0.7635,0.326,0.153,0.265,9,13,Betty,Berg,University of Houston,9,North Pacific,1.9
+3671,M,0.59,0.465,0.135,0.9895,0.4235,0.199,0.28,8,8,Kali,Metcalfe,Mote Marine Laboratory,4,Mid-Atlantic,6.1
+3672,I,0.595,0.47,0.135,0.9365,0.434,0.184,0.287,10,3,Inaya,Bernard,Stanford University,9,North Pacific,1.9
+3682,M,0.615,0.47,0.175,1.242,0.5675,0.287,0.317,11,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+3705,M,0.67,0.54,0.195,1.217,0.532,0.2735,0.3315,11,8,Kali,Metcalfe,Mote Marine Laboratory,9,North Pacific,1.9
+3720,I,0.38,0.28,0.095,0.2885,0.165,0.0435,0.067,7,13,Betty,Berg,University of Houston,2,Florida Gulf Coast,18
+3723,I,0.465,0.36,0.105,0.452,0.22,0.159,0.1035,9,4,Nate,Craig,NOAA Fisheries,2,Florida Gulf Coast,18
+3726,M,0.495,0.375,0.155,0.976,0.45,0.2285,0.2475,9,6,Martin,Gaines,San Diego State University,6,"Gulf of Mexico	",14.1
+3728,M,0.505,0.4,0.15,0.775,0.3445,0.157,0.185,7,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+3737,M,0.625,0.48,0.18,1.223,0.565,0.2975,0.3375,10,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+3740,F,0.65,0.525,0.165,1.238,0.647,0.2485,0.3005,9,7,Iona,Connolly,Florida Atlantic University,3,Northeast,3.6
+3747,I,0.36,0.265,0.085,0.1865,0.0675,0.037,0.0615,7,9,Danica,Tyler,"University of Florida	",4,Mid-Atlantic,6.1
+3752,I,0.45,0.335,0.115,0.3935,0.195,0.071,0.11,7,10,Hazel,Villa,University of Minnesota,8,West Coast,12.3
+3753,I,0.475,0.355,0.135,0.4775,0.2145,0.09,0.1435,8,8,Kali,Metcalfe,Mote Marine Laboratory,4,Mid-Atlantic,6.1
+3758,I,0.52,0.41,0.14,0.699,0.3395,0.129,0.1945,10,11,Naima,Reyes,University of Houston,10,Pacific,24.1
+3762,M,0.53,0.42,0.135,0.675,0.294,0.156,0.1825,10,15,Conan,Dalton,University of Houston,10,Pacific,24.1
+3765,I,0.535,0.4,0.145,0.705,0.3065,0.1365,0.22,10,9,Danica,Tyler,"University of Florida	",10,Pacific,24.1
+3767,F,0.555,0.44,0.14,0.846,0.346,0.1715,0.2735,10,3,Inaya,Bernard,Stanford University,2,Florida Gulf Coast,18
+3768,M,0.555,0.46,0.16,0.86,0.3345,0.1935,0.275,10,5,Haniya,Talley,Prince William Sound Science Center,8,West Coast,12.3
+3769,M,0.56,0.465,0.145,0.8875,0.3345,0.22,0.2695,9,12,Rebecca,Bennett,University of Houston,10,Pacific,24.1
+3775,I,0.58,0.42,0.14,0.701,0.3285,0.102,0.2255,9,14,Santiago,Vaughan,"Ohio State University	",4,Mid-Atlantic,6.1
+3777,F,0.585,0.42,0.155,0.9845,0.442,0.2155,0.2875,13,12,Rebecca,Bennett,University of Houston,2,Florida Gulf Coast,18
+3781,M,0.615,0.48,0.185,1.2205,0.4985,0.315,0.33,10,12,Rebecca,Bennett,University of Houston,9,North Pacific,1.9
+3782,M,0.615,0.455,0.13,0.9685,0.49,0.182,0.2655,10,4,Nate,Craig,NOAA Fisheries,9,North Pacific,1.9
+3786,M,0.625,0.495,0.155,1.177,0.5055,0.278,0.345,9,7,Iona,Connolly,Florida Atlantic University,10,Pacific,24.1
+3787,M,0.625,0.5,0.185,1.2425,0.5995,0.248,0.335,10,9,Danica,Tyler,"University of Florida	",10,Pacific,24.1
+3790,F,0.645,0.51,0.155,1.129,0.5015,0.24,0.342,10,14,Santiago,Vaughan,"Ohio State University	",10,Pacific,24.1
+3803,I,0.305,0.23,0.075,0.1455,0.0595,0.0305,0.05,6,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+3806,M,0.425,0.305,0.11,0.359,0.173,0.0875,0.0975,9,15,Conan,Dalton,University of Houston,3,Northeast,3.6
+3809,M,0.515,0.385,0.13,0.623,0.2855,0.1285,0.175,10,11,Naima,Reyes,University of Houston,1,Florida Atlantic Coast,22.1
+3810,F,0.52,0.375,0.135,0.5375,0.221,0.117,0.17,8,7,Iona,Connolly,Florida Atlantic University,4,Mid-Atlantic,6.1
+3812,M,0.555,0.445,0.13,0.8625,0.4225,0.155,0.24,9,2,Tiegan,Davie,"University of California, Davis",2,Florida Gulf Coast,18
+3816,I,0.46,0.34,0.1,0.386,0.1805,0.0875,0.0965,8,1,Jan,Odom,University of Houston,1,Florida Atlantic Coast,22.1
+3817,M,0.465,0.355,0.12,0.5315,0.2725,0.097,0.1395,8,2,Tiegan,Davie,"University of California, Davis",9,North Pacific,1.9
+3818,M,0.475,0.385,0.12,0.562,0.289,0.0905,0.153,8,8,Kali,Metcalfe,Mote Marine Laboratory,9,North Pacific,1.9
+3819,M,0.565,0.445,0.14,0.836,0.406,0.1605,0.2245,9,12,Rebecca,Bennett,University of Houston,4,Mid-Atlantic,6.1
+3832,F,0.545,0.42,0.175,0.754,0.256,0.1775,0.275,10,8,Kali,Metcalfe,Mote Marine Laboratory,2,Florida Gulf Coast,18
+3835,M,0.335,0.26,0.075,0.22,0.0855,0.04,0.085,6,3,Inaya,Bernard,Stanford University,9,North Pacific,1.9
+3837,M,0.41,0.325,0.1,0.3555,0.146,0.072,0.105,9,15,Conan,Dalton,University of Houston,8,West Coast,12.3
+3839,I,0.335,0.25,0.095,0.185,0.0795,0.0495,0.055,8,4,Nate,Craig,NOAA Fisheries,4,Mid-Atlantic,6.1
+3842,M,0.5,0.42,0.125,0.62,0.255,0.15,0.205,11,11,Naima,Reyes,University of Houston,3,Northeast,3.6
+3846,M,0.455,0.35,0.105,0.416,0.1625,0.097,0.145,11,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+3852,M,0.56,0.44,0.13,0.8255,0.2425,0.202,0.285,10,12,Rebecca,Bennett,University of Houston,10,Pacific,24.1
+3854,F,0.57,0.465,0.155,0.9685,0.446,0.261,0.255,9,15,Conan,Dalton,University of Houston,9,North Pacific,1.9
+3855,F,0.485,0.4,0.155,0.731,0.236,0.183,0.255,11,7,Iona,Connolly,Florida Atlantic University,3,Northeast,3.6
+3857,I,0.335,0.255,0.085,0.1785,0.071,0.0405,0.055,9,6,Martin,Gaines,San Diego State University,9,North Pacific,1.9
+3860,F,0.57,0.44,0.19,1.018,0.447,0.207,0.265,9,6,Martin,Gaines,San Diego State University,1,Florida Atlantic Coast,22.1
+3870,F,0.49,0.385,0.16,0.656,0.2455,0.171,0.205,9,6,Martin,Gaines,San Diego State University,1,Florida Atlantic Coast,22.1
+3872,F,0.45,0.36,0.11,0.447,0.203,0.082,0.13,12,13,Betty,Berg,University of Houston,10,Pacific,24.1
+3875,F,0.525,0.41,0.15,0.708,0.274,0.151,0.25,12,15,Conan,Dalton,University of Houston,5,Southeast,12.8
+3881,I,0.38,0.3,0.1,0.286,0.1305,0.056,0.09,7,9,Danica,Tyler,"University of Florida	",3,Northeast,3.6
+3886,I,0.41,0.33,0.105,0.335,0.1525,0.074,0.11,7,15,Conan,Dalton,University of Houston,4,Mid-Atlantic,6.1
+3894,I,0.435,0.355,0.125,0.4075,0.1535,0.074,0.165,9,9,Danica,Tyler,"University of Florida	",5,Southeast,12.8
+3896,F,0.595,0.5,0.18,1.053,0.4405,0.192,0.39,13,9,Danica,Tyler,"University of Florida	",1,Florida Atlantic Coast,22.1
+3899,F,0.565,0.46,0.15,0.8765,0.3455,0.1925,0.275,10,7,Iona,Connolly,Florida Atlantic University,9,North Pacific,1.9
+3900,I,0.14,0.105,0.035,0.0145,0.005,0.0035,0.005,4,12,Rebecca,Bennett,University of Houston,5,Southeast,12.8
+3902,F,0.525,0.43,0.125,0.813,0.3315,0.166,0.1775,12,6,Martin,Gaines,San Diego State University,5,Southeast,12.8
+3903,I,0.16,0.12,0.02,0.018,0.0075,0.0045,0.005,4,2,Tiegan,Davie,"University of California, Davis",2,Florida Gulf Coast,18
+3904,M,0.635,0.48,0.235,1.064,0.413,0.228,0.36,16,6,Martin,Gaines,San Diego State University,8,West Coast,12.3
+3909,I,0.455,0.365,0.135,0.441,0.1515,0.1165,0.145,9,10,Hazel,Villa,University of Minnesota,3,Northeast,3.6
+3912,I,0.355,0.27,0.1,0.216,0.083,0.037,0.075,10,6,Martin,Gaines,San Diego State University,2,Florida Gulf Coast,18
+3914,I,0.54,0.4,0.145,0.757,0.315,0.181,0.215,11,8,Kali,Metcalfe,Mote Marine Laboratory,8,West Coast,12.3
+3924,M,0.395,0.28,0.08,0.266,0.0995,0.066,0.09,12,15,Conan,Dalton,University of Houston,3,Northeast,3.6
+3926,F,0.47,0.35,0.115,0.487,0.1955,0.127,0.155,8,1,Jan,Odom,University of Houston,9,North Pacific,1.9
+3928,I,0.5,0.38,0.155,0.6675,0.2745,0.156,0.18,12,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+3932,I,0.55,0.44,0.165,0.8605,0.312,0.169,0.3,17,13,Betty,Berg,University of Houston,8,West Coast,12.3
+3939,F,0.35,0.275,0.065,0.205,0.0745,0.0465,0.07,10,6,Martin,Gaines,San Diego State University,1,Florida Atlantic Coast,22.1
+3943,F,0.525,0.4,0.115,0.6295,0.2555,0.144,0.18,11,7,Iona,Connolly,Florida Atlantic University,7,Great Lakes,2.5
+3944,M,0.55,0.45,0.175,1.0985,0.3765,0.215,0.4,14,9,Danica,Tyler,"University of Florida	",10,Pacific,24.1
+3945,M,0.55,0.44,0.16,0.991,0.348,0.168,0.375,20,8,Kali,Metcalfe,Mote Marine Laboratory,1,Florida Atlantic Coast,22.1
+3946,I,0.235,0.175,0.065,0.0615,0.0205,0.02,0.019,6,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+3948,M,0.475,0.365,0.14,0.6175,0.202,0.1445,0.19,16,13,Betty,Berg,University of Houston,4,Mid-Atlantic,6.1
+3950,F,0.525,0.415,0.15,0.7155,0.2355,0.171,0.27,13,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+3952,F,0.465,0.39,0.11,0.6355,0.1815,0.157,0.225,13,10,Hazel,Villa,University of Minnesota,7,Great Lakes,2.5
+3953,I,0.315,0.235,0.08,0.18,0.08,0.045,0.047,5,3,Inaya,Bernard,Stanford University,4,Mid-Atlantic,6.1
+3956,I,0.49,0.385,0.12,0.591,0.271,0.1125,0.1775,9,13,Betty,Berg,University of Houston,6,"Gulf of Mexico	",14.1
+3957,F,0.515,0.395,0.14,0.686,0.281,0.1255,0.22,12,11,Naima,Reyes,University of Houston,5,Southeast,12.8
+3958,F,0.555,0.44,0.155,1.016,0.4935,0.1855,0.263,10,6,Martin,Gaines,San Diego State University,3,Northeast,3.6
+3965,I,0.27,0.19,0.06,0.099,0.0445,0.017,0.03,5,12,Rebecca,Bennett,University of Houston,5,Southeast,12.8
+3968,I,0.315,0.23,0.07,0.164,0.0625,0.04,0.045,6,7,Iona,Connolly,Florida Atlantic University,3,Northeast,3.6
+3971,I,0.385,0.285,0.09,0.248,0.0935,0.066,0.07,6,7,Iona,Connolly,Florida Atlantic University,1,Florida Atlantic Coast,22.1
+3973,M,0.415,0.315,0.12,0.4015,0.199,0.087,0.097,8,2,Tiegan,Davie,"University of California, Davis",9,North Pacific,1.9
+3974,I,0.415,0.33,0.1,0.3905,0.1925,0.0755,0.1025,7,6,Martin,Gaines,San Diego State University,8,West Coast,12.3
+3977,I,0.45,0.35,0.135,0.494,0.2205,0.0945,0.1405,7,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+3978,I,0.475,0.35,0.12,0.4905,0.2035,0.13,0.135,7,15,Conan,Dalton,University of Houston,2,Florida Gulf Coast,18
+3982,M,0.565,0.455,0.15,0.9795,0.444,0.205,0.275,8,10,Hazel,Villa,University of Minnesota,8,West Coast,12.3
+3996,I,0.245,0.175,0.055,0.0785,0.04,0.018,0.02,5,5,Haniya,Talley,Prince William Sound Science Center,7,Great Lakes,2.5
+3998,I,0.36,0.27,0.09,0.2075,0.098,0.039,0.062,6,12,Rebecca,Bennett,University of Houston,6,"Gulf of Mexico	",14.1
+4000,I,0.415,0.31,0.095,0.34,0.181,0.057,0.083,6,11,Naima,Reyes,University of Houston,1,Florida Atlantic Coast,22.1
+4003,I,0.485,0.375,0.125,0.562,0.2505,0.1345,0.1525,8,15,Conan,Dalton,University of Houston,2,Florida Gulf Coast,18
+4007,M,0.585,0.465,0.15,0.98,0.4315,0.2545,0.247,9,13,Betty,Berg,University of Houston,1,Florida Atlantic Coast,22.1
+4008,F,0.585,0.46,0.15,1.0035,0.503,0.2105,0.2515,11,13,Betty,Berg,University of Houston,10,Pacific,24.1
+4012,M,0.615,0.53,0.17,1.12,0.5775,0.2095,0.286,9,12,Rebecca,Bennett,University of Houston,6,"Gulf of Mexico	",14.1
+4013,F,0.62,0.465,0.14,1.011,0.479,0.2385,0.255,8,2,Tiegan,Davie,"University of California, Davis",5,Southeast,12.8
+4015,M,0.625,0.48,0.175,1.065,0.4865,0.259,0.285,10,15,Conan,Dalton,University of Houston,9,North Pacific,1.9
+4025,I,0.33,0.245,0.065,0.1445,0.058,0.032,0.0505,6,11,Naima,Reyes,University of Houston,3,Northeast,3.6
+4032,I,0.44,0.325,0.11,0.4965,0.258,0.1195,0.1075,8,12,Rebecca,Bennett,University of Houston,4,Mid-Atlantic,6.1
+4035,M,0.51,0.405,0.125,0.6925,0.327,0.155,0.1805,7,6,Martin,Gaines,San Diego State University,2,Florida Gulf Coast,18
+4038,I,0.54,0.415,0.155,0.702,0.322,0.167,0.19,10,13,Betty,Berg,University of Houston,3,Northeast,3.6
+4040,I,0.56,0.44,0.155,0.811,0.3685,0.178,0.235,11,2,Tiegan,Davie,"University of California, Davis",6,"Gulf of Mexico	",14.1
+4045,F,0.58,0.425,0.155,0.873,0.3615,0.249,0.239,10,9,Danica,Tyler,"University of Florida	",5,Southeast,12.8
+4050,M,0.625,0.495,0.155,1.025,0.46,0.1945,0.34,9,15,Conan,Dalton,University of Houston,9,North Pacific,1.9
+4056,F,0.645,0.5,0.15,1.159,0.4675,0.3355,0.31,9,15,Conan,Dalton,University of Houston,9,North Pacific,1.9
+4063,M,0.63,0.49,0.15,1.1955,0.5845,0.257,0.3,9,15,Conan,Dalton,University of Houston,10,Pacific,24.1
+4066,I,0.37,0.275,0.08,0.2325,0.093,0.056,0.072,6,1,Jan,Odom,University of Houston,1,Florida Atlantic Coast,22.1
+4068,I,0.4,0.3,0.115,0.318,0.1335,0.0725,0.0935,6,8,Kali,Metcalfe,Mote Marine Laboratory,2,Florida Gulf Coast,18
+4070,I,0.455,0.335,0.105,0.4055,0.175,0.092,0.1185,8,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+4071,I,0.48,0.335,0.125,0.524,0.246,0.1095,0.145,7,13,Betty,Berg,University of Houston,2,Florida Gulf Coast,18
+4073,I,0.5,0.36,0.12,0.439,0.1875,0.1055,0.1305,8,12,Rebecca,Bennett,University of Houston,3,Northeast,3.6
+4077,I,0.545,0.43,0.14,0.772,0.289,0.19,0.2615,8,8,Kali,Metcalfe,Mote Marine Laboratory,6,"Gulf of Mexico	",14.1
+4078,I,0.55,0.435,0.125,0.741,0.348,0.1585,0.206,9,3,Inaya,Bernard,Stanford University,1,Florida Atlantic Coast,22.1
+4082,M,0.56,0.45,0.145,0.9355,0.425,0.1645,0.2725,11,5,Haniya,Talley,Prince William Sound Science Center,5,Southeast,12.8
+4086,M,0.585,0.51,0.16,1.218,0.639,0.241,0.3,11,10,Hazel,Villa,University of Minnesota,3,Northeast,3.6
+4090,M,0.61,0.365,0.155,1.0765,0.488,0.249,0.27,9,12,Rebecca,Bennett,University of Houston,6,"Gulf of Mexico	",14.1
+4094,M,0.63,0.485,0.18,1.2435,0.5175,0.308,0.37,11,8,Kali,Metcalfe,Mote Marine Laboratory,10,Pacific,24.1
+4120,I,0.3,0.215,0.05,0.1185,0.048,0.0225,0.042,4,1,Jan,Odom,University of Houston,8,West Coast,12.3
+4121,M,0.35,0.265,0.09,0.197,0.073,0.0365,0.077,7,2,Tiegan,Davie,"University of California, Davis",10,Pacific,24.1
+4125,I,0.5,0.385,0.12,0.516,0.197,0.1305,0.165,8,5,Haniya,Talley,Prince William Sound Science Center,6,"Gulf of Mexico	",14.1
+4128,I,0.55,0.445,0.11,0.7935,0.378,0.142,0.26,10,11,Naima,Reyes,University of Houston,6,"Gulf of Mexico	",14.1
+4133,I,0.585,0.47,0.17,0.985,0.3695,0.2395,0.315,10,13,Betty,Berg,University of Houston,9,North Pacific,1.9
+4134,M,0.585,0.45,0.15,0.997,0.4055,0.283,0.251,11,5,Haniya,Talley,Prince William Sound Science Center,1,Florida Atlantic Coast,22.1
+4135,F,0.595,0.455,0.14,0.914,0.3895,0.2225,0.271,9,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+4138,M,0.63,0.505,0.155,1.105,0.492,0.226,0.325,11,7,Iona,Connolly,Florida Atlantic University,10,Pacific,24.1
+4152,I,0.35,0.25,0.075,0.1695,0.0835,0.0355,0.041,6,1,Jan,Odom,University of Houston,7,Great Lakes,2.5
+4155,I,0.435,0.33,0.095,0.393,0.219,0.075,0.0885,6,1,Jan,Odom,University of Houston,2,Florida Gulf Coast,18
+4166,I,0.405,0.3,0.085,0.3035,0.15,0.0505,0.088,7,15,Conan,Dalton,University of Houston,3,Northeast,3.6
+4171,M,0.55,0.43,0.13,0.8395,0.3155,0.1955,0.2405,10,12,Rebecca,Bennett,University of Houston,4,Mid-Atlantic,6.1
+4172,M,0.56,0.43,0.155,0.8675,0.4,0.172,0.229,8,9,Danica,Tyler,"University of Florida	",6,"Gulf of Mexico	",14.1
+4173,F,0.565,0.45,0.165,0.887,0.37,0.239,0.249,11,15,Conan,Dalton,University of Houston,6,"Gulf of Mexico	",14.1
